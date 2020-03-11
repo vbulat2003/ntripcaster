@@ -35,11 +35,11 @@ port 8000
 ######################## Main Server Logfile ##################################
 # logfile contains information about connections, warnings, errors etc.
 
-logdir @NTRIPCASTER_LOGDIR@
+logdir /home/user/31_Java_NetBeans/bulatovic/ntripcaster/logs
 logfile ntripcaster.log
 
-mountposfile @absolute_path_to_mountpos.conf@
-auto_mount false
+mountposfile /home/user/31_Java_NetBeans/bulatovic/ntripcaster/conf/mountpos.conf
+auto_mount true
 read_gpgga_interval 3
 ############################ Access Control ###################################
 # Here you specify which users have access to which mountpoints,

@@ -79,6 +79,7 @@ AUTOMAKE_OPTIONS = foreign
 etcdir = $(NTRIPCASTER_ETCDIR_INST)
 etc_DATA = ntripcaster.conf.dist sourcetable.dat.dist mountpos.conf.dist
 
+
 EXTRA_DIST = $(etc_DATA)
 mkinstalldirs = $(SHELL) $(top_srcdir)/mkinstalldirs
 CONFIG_HEADER = ../config.h

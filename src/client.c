@@ -104,7 +104,10 @@
 #include <signal.h>
 #endif
 
+
 /* basic.c. ajd ****************************************************/
+
+
 
 extern server_info_t info;
 mutex_t authentication_mutex = {MUTEX_STATE_UNINIT};
@@ -124,6 +127,11 @@ void client_auto_select_station(void *conarg) {
 	double min_distance = DBL_MAX;
 	mythread_t *mt;
 	double client_xyz[3];
+        
+/*
+        write_log(LOG_DEFAULT, client_xyz[1]);
+*/
+        
 	double mount_xyz[3];
         double distance = 0;
 
@@ -158,10 +166,39 @@ void client_auto_select_station(void *conarg) {
 		client->pos.height = pos.height;
 
 		llh2xyz(client->pos.lat, client->pos.lng, client->pos.height, &client_xyz);
+                
+/*
+                write_log(LOG_DEFAULT, client->pos.lat, client->pos.lng, client->pos.height);//ja dodao da zapisuje u log file
+*/
+/*
+       FILE *fp;
+   char line[100];
+   int  i;
+   float f;
+   double d;
+   fp = fopen("textFile", "w");     
+   fscanf(fp, "%s", line);  // line = &line[0]            
+   fscanf(fp, "%d", pos.lat);
+   fscanf(fp, "%f", &f);
+   fscanf(fp, "%lf", &d);
+*/
+/*
+      fclose(fp);    
+*/
 
         llh2xyz(client->last_change_pos.lat, client->last_change_pos.lng, client->last_change_pos.height, 
                 &last_change_xyz);
         double dist_to_lastchange = compute_distance_xyz(client_xyz, last_change_xyz);
+        
+             
+/*
+   fp = fopen("textFile", "a");     
+   fscanf(fp, "%s", line);  // line = &line[0]            
+   fscanf(fp, "%d", dist_to_lastchange);
+   fscanf(fp, "%f", &f);
+   fscanf(fp, "%lf", &d);
+      fclose(fp); 
+*/
 
         if (dist_to_lastchange > 50.0) {
 
@@ -916,3 +953,14 @@ print_authentication_scheme() {
 	thread_mutex_unlock(&authentication_mutex);
 }
 
+
+/*
+void client_position_log(String nmeaclient)
+{
+    
+    cin >> nmeaclient;
+    ofstream out("client_coordinates.txt");
+    
+    out.close();
+}
+*/

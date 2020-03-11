@@ -1308,6 +1308,9 @@ int parse_gpgga_msg(char *gpgga_t, pos_t *position) {
                 dd = (int)ddmm / 100;
                 mm = ddmm - dd*100;
                 position->lat = (dd + mm / 60.0) * M_PI / 180.0; //change to radian
+/*
+                write_log(LOG_DEFAULT, "Latitude GPGGA message format: %s\n", position);
+*/
                 break;
             case 4:
                 //longitude

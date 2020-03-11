@@ -1,0 +1,130 @@
+/usr/bin/make  all-recursive
+make[1]: Entering directory '/home/sasa/31_Java_NetBeans/bulatovic/ntripcaster'
+Making all in src
+make[2]: Entering directory '/home/sasa/31_Java_NetBeans/bulatovic/ntripcaster/src'
+/usr/bin/gcc -DHAVE_CONFIG_H -I. -I. -I.. -D_REENTRANT     -g3 -gdwarf-2 -c main.c
+In file included from main.c:88:0:
+sock.h:64:0: warning: "SOCK_NONBLOCK" redefined
+ #define SOCK_NONBLOCK 1
+ 
+In file included from /usr/include/x86_64-linux-gnu/bits/socket.h:38:0,
+                 from /usr/include/x86_64-linux-gnu/sys/socket.h:33,
+                 from main.c:69:
+/usr/include/x86_64-linux-gnu/bits/socket_type.h:54:0: note: this is the location of the previous definition
+ #define SOCK_NONBLOCK SOCK_NONBLOCK
+ 
+/usr/bin/gcc -DHAVE_CONFIG_H -I. -I. -I.. -D_REENTRANT     -g3 -gdwarf-2 -c client.c
+In file included from client.c:89:0:
+connection.h:79:0: warning: "SOCK_NONBLOCK" redefined
+ #define SOCK_NONBLOCK 1
+ 
+In file included from /usr/include/x86_64-linux-gnu/bits/socket.h:38:0,
+                 from /usr/include/x86_64-linux-gnu/sys/socket.h:33,
+                 from client.c:78:
+/usr/include/x86_64-linux-gnu/bits/socket_type.h:54:0: note: this is the location of the previous definition
+ #define SOCK_NONBLOCK SOCK_NONBLOCK
+ 
+/usr/bin/gcc -DHAVE_CONFIG_H -I. -I. -I.. -D_REENTRANT     -g3 -gdwarf-2 -c source.c
+In file included from source.c:89:0:
+sock.h:64:0: warning: "SOCK_NONBLOCK" redefined
+ #define SOCK_NONBLOCK 1
+ 
+In file included from /usr/include/x86_64-linux-gnu/bits/socket.h:38:0,
+                 from /usr/include/x86_64-linux-gnu/sys/socket.h:33,
+                 from source.c:72:
+/usr/include/x86_64-linux-gnu/bits/socket_type.h:54:0: note: this is the location of the previous definition
+ #define SOCK_NONBLOCK SOCK_NONBLOCK
+ 
+/usr/bin/gcc -DHAVE_CONFIG_H -I. -I. -I.. -D_REENTRANT     -g3 -gdwarf-2 -c connection.c
+In file included from connection.c:84:0:
+connection.h:79:0: warning: "SOCK_NONBLOCK" redefined
+ #define SOCK_NONBLOCK 1
+ 
+In file included from /usr/include/x86_64-linux-gnu/bits/socket.h:38:0,
+                 from /usr/include/x86_64-linux-gnu/sys/socket.h:33,
+                 from connection.c:71:
+/usr/include/x86_64-linux-gnu/bits/socket_type.h:54:0: note: this is the location of the previous definition
+ #define SOCK_NONBLOCK SOCK_NONBLOCK
+ 
+/usr/bin/gcc -DHAVE_CONFIG_H -I. -I. -I.. -D_REENTRANT     -g3 -gdwarf-2 -c log.c
+In file included from log.c:78:0:
+sock.h:64:0: warning: "SOCK_NONBLOCK" redefined
+ #define SOCK_NONBLOCK 1
+ 
+In file included from /usr/include/x86_64-linux-gnu/bits/socket.h:38:0,
+                 from /usr/include/x86_64-linux-gnu/sys/socket.h:33,
+                 from log.c:68:
+/usr/include/x86_64-linux-gnu/bits/socket_type.h:54:0: note: this is the location of the previous definition
+ #define SOCK_NONBLOCK SOCK_NONBLOCK
+ 
+/usr/bin/gcc -DHAVE_CONFIG_H -I. -I. -I.. -D_REENTRANT     -g3 -gdwarf-2 -c sock.c
+In file included from sock.c:94:0:
+sock.h:64:0: warning: "SOCK_NONBLOCK" redefined
+ #define SOCK_NONBLOCK 1
+ 
+In file included from /usr/include/x86_64-linux-gnu/bits/socket.h:38:0,
+                 from /usr/include/x86_64-linux-gnu/sys/socket.h:33,
+                 from sock.c:70:
+/usr/include/x86_64-linux-gnu/bits/socket_type.h:54:0: note: this is the location of the previous definition
+ #define SOCK_NONBLOCK SOCK_NONBLOCK
+ 
+/usr/bin/gcc -DHAVE_CONFIG_H -I. -I. -I.. -D_REENTRANT     -g3 -gdwarf-2 -c threads.c
+threads.c: In function ‘thread_exit_c’:
+threads.c:464:15: warning: cast to pointer from integer of different size [-Wint-to-pointer-cast]
+  pthread_exit((void *)val);
+               ^
+/usr/bin/gcc -DHAVE_CONFIG_H -I. -I. -I.. -D_REENTRANT     -g3 -gdwarf-2 -c utility.c
+In file included from utility.c:89:0:
+sock.h:64:0: warning: "SOCK_NONBLOCK" redefined
+ #define SOCK_NONBLOCK 1
+ 
+In file included from /usr/include/x86_64-linux-gnu/bits/socket.h:38:0,
+                 from /usr/include/x86_64-linux-gnu/sys/socket.h:33,
+                 from /usr/include/netinet/in.h:23,
+                 from /usr/include/netdb.h:27,
+                 from utility.c:69:
+/usr/include/x86_64-linux-gnu/bits/socket_type.h:54:0: note: this is the location of the previous definition
+ #define SOCK_NONBLOCK SOCK_NONBLOCK
+ 
+/usr/bin/gcc -DHAVE_CONFIG_H -I. -I. -I.. -D_REENTRANT     -g3 -gdwarf-2 -c avl.c
+In file included from avl.c:109:0:
+connection.h:79:0: warning: "SOCK_NONBLOCK" redefined
+ #define SOCK_NONBLOCK 1
+ 
+In file included from /usr/include/x86_64-linux-gnu/bits/socket.h:38:0,
+                 from /usr/include/x86_64-linux-gnu/sys/socket.h:33,
+                 from avl.c:103:
+/usr/include/x86_64-linux-gnu/bits/socket_type.h:54:0: note: this is the location of the previous definition
+ #define SOCK_NONBLOCK SOCK_NONBLOCK
+ 
+/usr/bin/gcc -DHAVE_CONFIG_H -I. -I. -I.. -D_REENTRANT     -g3 -gdwarf-2 -c timer.c
+In file included from timer.c:87:0:
+sock.h:64:0: warning: "SOCK_NONBLOCK" redefined
+ #define SOCK_NONBLOCK 1
+ 
+In file included from /usr/include/x86_64-linux-gnu/bits/socket.h:38:0,
+                 from /usr/include/x86_64-linux-gnu/sys/socket.h:33,
+                 from timer.c:71:
+/usr/include/x86_64-linux-gnu/bits/socket_type.h:54:0: note: this is the location of the previous definition
+ #define SOCK_NONBLOCK SOCK_NONBLOCK
+ 
+/usr/bin/gcc -DHAVE_CONFIG_H -I. -I. -I.. -D_REENTRANT     -g3 -gdwarf-2 -c ntrip_string.c
+In file included from ntrip_string.c:78:0:
+sock.h:64:0: warning: "SOCK_NONBLOCK" redefined
+ #define SOCK_NONBLOCK 1
+ 
+In file included from /usr/include/x86_64-linux-gnu/bits/socket.h:38:0,
+                 from /usr/include/x86_64-linux-gnu/sys/socket.h:33,
+                 from ntrip_string.c:66:
+/usr/include/x86_64-linux-gnu/bits/socket_type.h:54:0: note: this is the location of the previous definition
+ #define SOCK_NONBLOCK SOCK_NONBLOCK
+ 
+/usr/bin/gcc  -g3 -gdwarf-2  -o ntripcaster  main.o client.o source.o connection.o log.o sock.o threads.o utility.o avl.o timer.o ntrip_string.o  -lm  -lpthread
+make[2]: Leaving directory '/home/sasa/31_Java_NetBeans/bulatovic/ntripcaster/src'
+Making all in conf
+make[2]: Entering directory '/home/sasa/31_Java_NetBeans/bulatovic/ntripcaster/conf'
+make[2]: Nothing to be done for 'all'.
+make[2]: Leaving directory '/home/sasa/31_Java_NetBeans/bulatovic/ntripcaster/conf'
+make[2]: Entering directory '/home/sasa/31_Java_NetBeans/bulatovic/ntripcaster'
+make[2]: Leaving directory '/home/sasa/31_Java_NetBeans/bulatovic/ntripcaster'
+make[1]: Leaving directory '/home/sasa/31_Java_NetBeans/bulatovic/ntripcaster'

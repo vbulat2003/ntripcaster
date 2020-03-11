@@ -16,7 +16,7 @@ SHELL = /bin/sh
 srcdir = .
 top_srcdir = ..
 
-prefix = /home/fuxiangyu/Baidu_ADU/ntripcaster_github/output/
+prefix = /usr/local/nearest
 exec_prefix = ${prefix}
 
 bindir = ${exec_prefix}/bin
@@ -40,10 +40,10 @@ pkgincludedir = $(includedir)/ntripcaster
 
 top_builddir = ..
 
-ACLOCAL = aclocal
-AUTOCONF = autoconf
-AUTOMAKE = automake
-AUTOHEADER = autoheader
+ACLOCAL = /root/nearest/missing aclocal
+AUTOCONF = /root/nearest/missing autoconf
+AUTOMAKE = /root/nearest/missing automake
+AUTOHEADER = /root/nearest/missing autoheader
 
 INSTALL = /usr/bin/install -c
 INSTALL_PROGRAM = ${INSTALL} $(AM_INSTALL_PROGRAM_FLAGS)
@@ -60,12 +60,12 @@ POST_UNINSTALL = :
 CC = gcc
 CRYPTLIB = 
 MAINT = #
-MAKEINFO = /home/fuxiangyu/Baidu_ADU/ntripcaster_github/missing makeinfo
-NTRIPCASTER_BINDIR = /home/fuxiangyu/Baidu_ADU/ntripcaster_github/output//bin
+MAKEINFO = /root/nearest/missing makeinfo
+NTRIPCASTER_BINDIR = /usr/local/nearest/bin
 NTRIPCASTER_ETCDIR = conf
-NTRIPCASTER_ETCDIR_INST = /home/fuxiangyu/Baidu_ADU/ntripcaster_github/output//conf
+NTRIPCASTER_ETCDIR_INST = /usr/local/nearest/conf
 NTRIPCASTER_LOGDIR = logs
-NTRIPCASTER_LOGDIR_INST = /home/fuxiangyu/Baidu_ADU/ntripcaster_github/output//logs
+NTRIPCASTER_LOGDIR_INST = /usr/local/nearest/logs
 PACKAGE = ntripcaster
 RANLIB = ranlib
 THREADLIBS = -lpthread
@@ -78,6 +78,7 @@ AUTOMAKE_OPTIONS = foreign
 
 etcdir = $(NTRIPCASTER_ETCDIR_INST)
 etc_DATA = ntripcaster.conf.dist sourcetable.dat.dist mountpos.conf.dist
+
 
 EXTRA_DIST = $(etc_DATA)
 mkinstalldirs = $(SHELL) $(top_srcdir)/mkinstalldirs

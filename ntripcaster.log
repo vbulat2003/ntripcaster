@@ -1,0 +1,1918 @@
+[21/Jan/2020:12:34:53] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[21/Jan/2020:12:34:53] [0:Main Thread] Using stdout as NtripCaster logging window
+[21/Jan/2020:12:34:53] [0:Main Thread] Starting main connection handler...
+[21/Jan/2020:12:34:53] [0:Main Thread] Listening on port 2101...
+[21/Jan/2020:12:34:53] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[21/Jan/2020:12:34:53] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[21/Jan/2020:12:34:53] [0:Main Thread] Starting Calender Thread...
+[21/Jan/2020:12:34:53] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[21/Jan/2020:12:34:57] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[21/Jan/2020:12:34:57] [0:Main Thread] Cleanly shutting down...
+[21/Jan/2020:12:34:57] [0:Main Thread] Closing all listening sockets...
+[21/Jan/2020:12:34:57] [0:Main Thread] Telling threads to die...
+[21/Jan/2020:12:34:57] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[21/Jan/2020:12:34:57] [0:Main Thread] Closing all remaining sockets...
+[21/Jan/2020:12:34:57] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[21/Jan/2020:12:34:57] [0:Main Thread] Waiting a wee while to let the other threads die..
+[21/Jan/2020:12:34:57] [0:Main Thread] Finally alone
+[21/Jan/2020:12:34:57] [0:Main Thread] Removing remaining sources...
+[21/Jan/2020:12:34:57] [0:Main Thread] Exiting..
+[22/Jan/2020:07:57:16] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:07:57:16] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:07:57:16] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:07:57:16] [0:Main Thread] Listening on port 2101...
+[22/Jan/2020:07:57:16] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[22/Jan/2020:07:57:16] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[22/Jan/2020:07:57:16] [0:Main Thread] Starting Calender Thread...
+[22/Jan/2020:07:57:16] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[22/Jan/2020:07:57:20] [2:Connection Handler] No mount location file found.
+[22/Jan/2020:07:57:20] [2:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 1 sources connected
+[22/Jan/2020:07:57:23] [3:Connection Handler] No mount location file found.
+[22/Jan/2020:07:57:23] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[22/Jan/2020:07:57:25] [4:Connection Handler] No mount location file found.
+[22/Jan/2020:07:57:25] [4:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 3 sources connected
+[22/Jan/2020:07:57:29] [5:Connection Handler] Accepted client 3 [kor1] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[22/Jan/2020:07:58:16] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[22/Jan/2020:08:00:01] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:08:00:01] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:08:00:01] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:08:00:01] [0:Main Thread] Listening on port 2101...
+[22/Jan/2020:08:00:01] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[22/Jan/2020:08:00:01] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[22/Jan/2020:08:00:01] [0:Main Thread] Starting Calender Thread...
+[22/Jan/2020:08:00:01] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[22/Jan/2020:08:00:04] [2:Connection Handler] No mount location file found.
+[22/Jan/2020:08:00:04] [2:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 1 sources connected
+[22/Jan/2020:08:00:06] [3:Connection Handler] No mount location file found.
+[22/Jan/2020:08:00:06] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[22/Jan/2020:08:00:09] [4:Connection Handler] No mount location file found.
+[22/Jan/2020:08:00:09] [4:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 3 sources connected
+[22/Jan/2020:08:00:13] [5:Connection Handler] Accepted client 3 [kor1] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[22/Jan/2020:08:01:04] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[22/Jan/2020:08:01:09] [6:Connection Handler] Accepted client 4 [kor1] from [192.168.130.43] on mountpoint [/ROMA]. 2 clients connected
+[22/Jan/2020:08:01:42] [7:Connection Handler] Accepted client 5 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 3 clients connected
+[22/Jan/2020:08:02:00] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 56 seconds, 261 bytes transfered. 2 sources connected
+[22/Jan/2020:08:02:00] [2:Source Thread] Kicking all 0 clients for source 0
+[22/Jan/2020:08:02:04] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:2 Clients:3
+[22/Jan/2020:08:02:04] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 58 seconds, 115 bytes transfered. 1 sources connected
+[22/Jan/2020:08:02:04] [3:Source Thread] Kicking all 0 clients for source 1
+[22/Jan/2020:08:02:06] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 57 seconds, 434 bytes transfered. 0 sources connected
+[22/Jan/2020:08:02:06] [4:Source Thread] Kicking all 3 clients for source 2
+[22/Jan/2020:08:02:06] [4:Source Thread] Kicking client 3 [kor1] [192.168.130.43] [Stream ended] [listener], connected for 1 minutes and 54 seconds, 59958 bytes transfered. 2 clients connected
+[22/Jan/2020:08:02:06] [4:Source Thread] Kicking client 4 [kor1] [192.168.130.43] [Stream ended] [listener], connected for 59 seconds, 55958 bytes transfered. 2 clients connected
+[22/Jan/2020:08:02:06] [4:Source Thread] Kicking client 5 [kor2] [192.168.130.43] [Stream ended] [listener], connected for 24 seconds, 12728 bytes transfered. 2 clients connected
+[22/Jan/2020:08:05:12] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:08:05:12] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:08:05:12] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:08:05:12] [0:Main Thread] Listening on port 2101...
+[22/Jan/2020:08:05:12] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[22/Jan/2020:08:05:12] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[22/Jan/2020:08:05:12] [0:Main Thread] Starting Calender Thread...
+[22/Jan/2020:08:05:12] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[22/Jan/2020:08:05:16] [2:Connection Handler] No mount location file found.
+[22/Jan/2020:08:05:16] [2:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 1 sources connected
+[22/Jan/2020:08:05:19] [3:Connection Handler] No mount location file found.
+[22/Jan/2020:08:05:19] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[22/Jan/2020:08:05:21] [4:Connection Handler] No mount location file found.
+[22/Jan/2020:08:05:21] [4:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 3 sources connected
+[22/Jan/2020:08:05:25] [5:Connection Handler] Accepted client 3 [kor1] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[22/Jan/2020:08:06:39] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[22/Jan/2020:08:08:07] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:08:08:07] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:08:08:07] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:08:08:07] [0:Main Thread] Listening on port 2101...
+[22/Jan/2020:08:08:07] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[22/Jan/2020:08:08:07] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[22/Jan/2020:08:08:07] [0:Main Thread] Starting Calender Thread...
+[22/Jan/2020:08:08:07] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[22/Jan/2020:08:08:11] [2:Connection Handler] No mount location file found.
+[22/Jan/2020:08:08:11] [2:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 1 sources connected
+[22/Jan/2020:08:08:14] [3:Connection Handler] No mount location file found.
+[22/Jan/2020:08:08:14] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[22/Jan/2020:08:08:17] [4:Connection Handler] Accepted client 2 [kor1] from [192.168.130.43] on mountpoint [/GRAV]. 1 clients connected
+[22/Jan/2020:08:08:53] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/GRAV]. 2 clients connected
+[22/Jan/2020:08:09:07] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:2 Clients:2
+[22/Jan/2020:08:09:26] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 15 seconds, 355 bytes transfered. 1 sources connected
+[22/Jan/2020:08:09:26] [2:Source Thread] Kicking all 0 clients for source 0
+[22/Jan/2020:08:09:28] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 14 seconds, 261 bytes transfered. 0 sources connected
+[22/Jan/2020:08:09:28] [3:Source Thread] Kicking all 2 clients for source 1
+[22/Jan/2020:08:09:28] [3:Source Thread] Kicking client 2 [kor1] [192.168.130.43] [Stream ended] [listener], connected for 1 minutes and 11 seconds, 238713 bytes transfered. 1 clients connected
+[22/Jan/2020:08:09:28] [3:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Stream ended] [listener], connected for 35 seconds, 107526 bytes transfered. 1 clients connected
+[22/Jan/2020:08:10:07] [1:Calendar Thread] Bandwidth:5.616667KB/s Sources:0 Clients:0
+[22/Jan/2020:08:13:20] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:08:13:20] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:08:13:20] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:08:13:20] [0:Main Thread] Listening on port 2101...
+[22/Jan/2020:08:13:20] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[22/Jan/2020:08:13:20] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[22/Jan/2020:08:13:20] [0:Main Thread] Starting Calender Thread...
+[22/Jan/2020:08:13:20] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[22/Jan/2020:08:13:22] [2:Connection Handler] No mount location file found.
+[22/Jan/2020:08:13:22] [2:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 1 sources connected
+[22/Jan/2020:08:13:25] [3:Connection Handler] No mount location file found.
+[22/Jan/2020:08:13:25] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[22/Jan/2020:08:13:27] [4:Connection Handler] No mount location file found.
+[22/Jan/2020:08:13:27] [4:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 3 sources connected
+[22/Jan/2020:08:14:09] [5:Connection Handler] Accepted client 3 [kor1] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[22/Jan/2020:08:14:24] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[22/Jan/2020:08:14:24] [6:Connection Handler] Accepted client 4 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 2 clients connected
+[22/Jan/2020:08:14:55] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 33 seconds, 978 bytes transfered. 2 sources connected
+[22/Jan/2020:08:14:55] [2:Source Thread] Kicking all 0 clients for source 0
+[22/Jan/2020:08:14:57] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 32 seconds, 944 bytes transfered. 1 sources connected
+[22/Jan/2020:08:14:57] [3:Source Thread] Kicking all 0 clients for source 1
+[22/Jan/2020:08:14:59] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 32 seconds, 292 bytes transfered. 0 sources connected
+[22/Jan/2020:08:14:59] [4:Source Thread] Kicking all 2 clients for source 2
+[22/Jan/2020:08:14:59] [4:Source Thread] Kicking client 3 [kor1] [192.168.130.43] [Stream ended] [listener], connected for 1 minutes and 28 seconds, 45077 bytes transfered. 1 clients connected
+[22/Jan/2020:08:14:59] [4:Source Thread] Kicking client 4 [kor2] [192.168.130.43] [Stream ended] [listener], connected for 50 seconds, 44877 bytes transfered. 1 clients connected
+[22/Jan/2020:08:16:08] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:08:16:08] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:08:16:08] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:08:16:08] [0:Main Thread] Listening on port 2101...
+[22/Jan/2020:08:16:08] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[22/Jan/2020:08:16:08] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[22/Jan/2020:08:16:08] [0:Main Thread] Starting Calender Thread...
+[22/Jan/2020:08:16:08] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[22/Jan/2020:08:16:13] [2:Connection Handler] No mount location file found.
+[22/Jan/2020:08:16:13] [2:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 1 sources connected
+[22/Jan/2020:08:16:15] [3:Connection Handler] No mount location file found.
+[22/Jan/2020:08:16:15] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[22/Jan/2020:08:16:17] [4:Connection Handler] No mount location file found.
+[22/Jan/2020:08:16:17] [4:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 3 sources connected
+[22/Jan/2020:08:16:27] [5:Connection Handler] Accepted client 3 [kor1] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[22/Jan/2020:08:16:51] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 38 seconds, 875 bytes transfered. 2 sources connected
+[22/Jan/2020:08:16:51] [2:Source Thread] Kicking all 0 clients for source 0
+[22/Jan/2020:08:16:53] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 38 seconds, 188 bytes transfered. 1 sources connected
+[22/Jan/2020:08:16:53] [3:Source Thread] Kicking all 0 clients for source 1
+[22/Jan/2020:08:16:55] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 38 seconds, 965 bytes transfered. 0 sources connected
+[22/Jan/2020:08:16:55] [4:Source Thread] Kicking all 1 clients for source 2
+[22/Jan/2020:08:16:55] [4:Source Thread] Kicking client 3 [kor1] [192.168.130.43] [Stream ended] [listener], connected for 33 seconds, 15351 bytes transfered. 0 clients connected
+[22/Jan/2020:08:17:08] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[22/Jan/2020:11:00:36] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:11:00:36] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:11:00:36] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:11:00:36] [0:Main Thread] Listening on port 2101...
+[22/Jan/2020:11:00:36] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[22/Jan/2020:11:00:36] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[22/Jan/2020:11:00:36] [0:Main Thread] Starting Calender Thread...
+[22/Jan/2020:11:00:36] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[22/Jan/2020:11:00:38] [2:Connection Handler] No mount location file found.
+[22/Jan/2020:11:00:38] [2:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 1 sources connected
+[22/Jan/2020:11:00:41] [3:Connection Handler] No mount location file found.
+[22/Jan/2020:11:00:41] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[22/Jan/2020:11:00:44] [4:Connection Handler] No mount location file found.
+[22/Jan/2020:11:00:44] [4:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 3 sources connected
+[22/Jan/2020:11:00:48] [5:Connection Handler] Kicking unknown 3 [192.168.130.43] [Transfer Sourcetable], connected for 0 seconds
+[22/Jan/2020:11:01:11] [6:Connection Handler] Kicking unknown 4 [192.168.130.43] [Sourcetable transferred], connected for 0 seconds
+[22/Jan/2020:11:01:22] [7:Connection Handler] Kicking unknown 5 [192.168.130.43] [Sourcetable transferred], connected for 0 seconds
+[22/Jan/2020:11:01:31] [8:Connection Handler] Kicking unknown 6 [192.168.130.43] [Transfer Sourcetable], connected for 0 seconds
+[22/Jan/2020:11:01:36] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:0
+[22/Jan/2020:11:01:48] [9:Connection Handler] Kicking unknown 7 [192.168.130.43] [Sourcetable transferred], connected for 0 seconds
+[22/Jan/2020:11:02:04] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:11:02:04] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:11:02:04] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:11:02:04] [0:Main Thread] Listening on port 2101...
+[22/Jan/2020:11:02:04] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[22/Jan/2020:11:02:04] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[22/Jan/2020:11:02:04] [0:Main Thread] Starting Calender Thread...
+[22/Jan/2020:11:02:04] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[22/Jan/2020:11:02:07] [2:Connection Handler] Kicking unknown 0 [192.168.130.43] [Sourcetable transferred], connected for 0 seconds
+[22/Jan/2020:11:02:57] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:11:02:57] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:11:02:57] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:11:02:57] [0:Main Thread] Listening on port 2101...
+[22/Jan/2020:11:02:57] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[22/Jan/2020:11:02:57] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[22/Jan/2020:11:02:57] [0:Main Thread] Starting Calender Thread...
+[22/Jan/2020:11:02:57] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[22/Jan/2020:11:03:00] [2:Connection Handler] No mount location file found.
+[22/Jan/2020:11:03:00] [2:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 1 sources connected
+[22/Jan/2020:11:03:02] [3:Connection Handler] No mount location file found.
+[22/Jan/2020:11:03:02] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[22/Jan/2020:11:03:05] [4:Connection Handler] No mount location file found.
+[22/Jan/2020:11:03:05] [4:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 3 sources connected
+[22/Jan/2020:11:03:13] [5:Connection Handler] Kicking unknown 3 [192.168.130.43] [Transfer Sourcetable], connected for 0 seconds
+[22/Jan/2020:11:03:31] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:11:03:31] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:11:03:31] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:11:03:31] [0:Main Thread] Bind to socket on port 2101 failed. Shutting down now.
+[22/Jan/2020:11:03:31] [0:Main Thread] Cleanly shutting down...
+[22/Jan/2020:11:03:31] [0:Main Thread] Closing all listening sockets...
+[22/Jan/2020:11:03:31] [0:Main Thread] Telling threads to die...
+[22/Jan/2020:11:03:31] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[22/Jan/2020:11:03:31] [0:Main Thread] Closing all remaining sockets...
+[22/Jan/2020:11:03:31] [0:Main Thread] Removing remaining sources...
+[22/Jan/2020:11:03:31] [0:Main Thread] Exiting..
+[22/Jan/2020:11:03:36] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:11:03:36] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:11:03:36] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:11:03:36] [0:Main Thread] Bind to socket on port 2101 failed. Shutting down now.
+[22/Jan/2020:11:03:36] [0:Main Thread] Cleanly shutting down...
+[22/Jan/2020:11:03:36] [0:Main Thread] Closing all listening sockets...
+[22/Jan/2020:11:03:36] [0:Main Thread] Telling threads to die...
+[22/Jan/2020:11:03:36] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[22/Jan/2020:11:03:36] [0:Main Thread] Closing all remaining sockets...
+[22/Jan/2020:11:03:36] [0:Main Thread] Removing remaining sources...
+[22/Jan/2020:11:03:36] [0:Main Thread] Exiting..
+[22/Jan/2020:11:03:51] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:11:03:51] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:11:03:51] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:11:03:51] [0:Main Thread] Listening on port 2101...
+[22/Jan/2020:11:03:51] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[22/Jan/2020:11:03:51] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[22/Jan/2020:11:03:51] [0:Main Thread] Starting Calender Thread...
+[22/Jan/2020:11:03:51] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[22/Jan/2020:12:09:07] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:12:09:07] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:12:09:07] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:12:09:07] [0:Main Thread] Listening on port 2101...
+[22/Jan/2020:12:09:07] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[22/Jan/2020:12:09:07] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[22/Jan/2020:12:09:07] [0:Main Thread] Starting Calender Thread...
+[22/Jan/2020:12:09:07] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[22/Jan/2020:12:09:40] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:12:09:40] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:12:09:40] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:12:09:40] [0:Main Thread] Listening on port 2101...
+[22/Jan/2020:12:09:40] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[22/Jan/2020:12:09:40] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[22/Jan/2020:12:09:40] [0:Main Thread] Starting Calender Thread...
+[22/Jan/2020:12:09:40] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[22/Jan/2020:12:09:47] [2:Connection Handler] Kicking unknown 0 [192.168.130.43] [Sourcetable transferred], connected for 0 seconds
+[22/Jan/2020:12:09:56] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:12:09:56] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:12:09:56] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:12:09:56] [0:Main Thread] Bind to socket on port 2101 failed. Shutting down now.
+[22/Jan/2020:12:09:56] [0:Main Thread] Cleanly shutting down...
+[22/Jan/2020:12:09:56] [0:Main Thread] Closing all listening sockets...
+[22/Jan/2020:12:09:56] [0:Main Thread] Telling threads to die...
+[22/Jan/2020:12:09:56] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[22/Jan/2020:12:09:56] [0:Main Thread] Closing all remaining sockets...
+[22/Jan/2020:12:09:56] [0:Main Thread] Removing remaining sources...
+[22/Jan/2020:12:09:56] [0:Main Thread] Exiting..
+[22/Jan/2020:12:11:00] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:12:11:00] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:12:11:00] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:12:11:00] [0:Main Thread] Listening on port 2101...
+[22/Jan/2020:12:11:00] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[22/Jan/2020:12:11:00] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[22/Jan/2020:12:11:00] [0:Main Thread] Starting Calender Thread...
+[22/Jan/2020:12:11:00] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[22/Jan/2020:12:11:03] [2:Connection Handler] No mount location file found.
+[22/Jan/2020:12:11:03] [2:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 1 sources connected
+[22/Jan/2020:12:11:06] [3:Connection Handler] No mount location file found.
+[22/Jan/2020:12:11:06] [3:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[22/Jan/2020:12:11:09] [4:Connection Handler] No mount location file found.
+[22/Jan/2020:12:11:09] [4:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 3 sources connected
+[22/Jan/2020:12:11:13] [5:Connection Handler] Kicking unknown 3 [192.168.130.43] [Sourcetable transferred], connected for 0 seconds
+[22/Jan/2020:12:12:00] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:0
+[22/Jan/2020:12:17:20] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:12:17:20] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:12:17:20] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:12:17:20] [0:Main Thread] Listening on port 2101...
+[22/Jan/2020:12:17:20] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[22/Jan/2020:12:17:20] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[22/Jan/2020:12:17:20] [0:Main Thread] Starting Calender Thread...
+[22/Jan/2020:12:17:20] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[22/Jan/2020:12:17:25] [2:Connection Handler] No mount location file found.
+[22/Jan/2020:12:17:25] [2:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 1 sources connected
+[22/Jan/2020:12:17:28] [3:Connection Handler] No mount location file found.
+[22/Jan/2020:12:17:28] [3:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[22/Jan/2020:12:17:30] [4:Connection Handler] No mount location file found.
+[22/Jan/2020:12:17:30] [4:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 3 sources connected
+[22/Jan/2020:12:17:35] [5:Connection Handler] Accepted client 3 [kor1] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[22/Jan/2020:12:18:20] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[22/Jan/2020:12:19:41] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[22/Jan/2020:12:19:42] [6:Connection Handler] Accepted client 4 [kor1] from [192.168.130.43] on mountpoint [/ROMA]. 2 clients connected
+[22/Jan/2020:12:20:42] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:2
+[22/Jan/2020:12:21:42] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:2
+[22/Jan/2020:12:38:58] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:12:38:58] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:12:38:58] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:12:38:58] [0:Main Thread] Listening on port 2101...
+[22/Jan/2020:12:38:58] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[22/Jan/2020:12:38:58] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[22/Jan/2020:12:38:58] [0:Main Thread] Starting Calender Thread...
+[22/Jan/2020:12:38:58] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[22/Jan/2020:12:39:00] [2:Connection Handler] No mount location file found.
+[22/Jan/2020:12:39:00] [2:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 1 sources connected
+[22/Jan/2020:12:39:03] [3:Connection Handler] No mount location file found.
+[22/Jan/2020:12:39:03] [3:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[22/Jan/2020:12:39:06] [4:Connection Handler] No mount location file found.
+[22/Jan/2020:12:39:06] [4:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 3 sources connected
+[22/Jan/2020:12:39:13] [5:Connection Handler] Kicking unknown 3 [127.0.0.1] [Sourcetable transferred], connected for 0 seconds
+[22/Jan/2020:12:39:48] [6:Connection Handler] Kicking unknown 4 [127.0.0.1] [Sourcetable transferred], connected for 0 seconds
+[22/Jan/2020:12:39:58] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:0
+[22/Jan/2020:12:40:16] [7:Connection Handler] Kicking unknown 5 [192.168.130.88] [Sourcetable transferred], connected for 0 seconds
+[22/Jan/2020:12:40:58] [1:Calendar Thread] Bandwidth:5.366667KB/s Sources:3 Clients:0
+[22/Jan/2020:12:41:51] [8:Connection Handler] Kicking unknown 6 [127.0.0.1] [Sourcetable transferred], connected for 0 seconds
+[22/Jan/2020:12:41:58] [1:Calendar Thread] Bandwidth:5.666667KB/s Sources:3 Clients:0
+[22/Jan/2020:12:42:58] [1:Calendar Thread] Bandwidth:5.600000KB/s Sources:3 Clients:0
+[22/Jan/2020:13:14:02] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[22/Jan/2020:13:14:02] [0:Main Thread] Using stdout as NtripCaster logging window
+[22/Jan/2020:13:14:02] [0:Main Thread] Starting main connection handler...
+[22/Jan/2020:13:14:02] [0:Main Thread] Listening on port 2101...
+[22/Jan/2020:13:14:02] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[22/Jan/2020:13:14:02] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[22/Jan/2020:13:14:02] [0:Main Thread] Starting Calender Thread...
+[22/Jan/2020:13:14:02] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[22/Jan/2020:13:14:07] [2:Connection Handler] No mount location file found.
+[22/Jan/2020:13:14:07] [2:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 1 sources connected
+[22/Jan/2020:13:14:10] [3:Connection Handler] No mount location file found.
+[22/Jan/2020:13:14:10] [3:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[22/Jan/2020:13:14:15] [4:Connection Handler] No mount location file found.
+[22/Jan/2020:13:14:15] [4:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 3 sources connected
+[22/Jan/2020:13:14:23] [5:Connection Handler] Accepted client 3 [kor1] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[22/Jan/2020:13:15:18] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[22/Jan/2020:13:16:19] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[22/Jan/2020:13:17:27] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[22/Jan/2020:13:17:31] [6:Connection Handler] Accepted client 4 [kor1] from [192.168.130.43] on mountpoint [/ROMA]. 2 clients connected
+[22/Jan/2020:13:18:29] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:2
+[22/Jan/2020:13:19:09] [4:Source Thread] Kicking client 3 [kor1] [192.168.130.43] [Client signed off] [listener], connected for 4 minutes and 46 seconds, 37301 bytes transfered. 1 clients connected
+[22/Jan/2020:13:19:33] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[22/Jan/2020:13:20:06] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 5 minutes and 59 seconds, 1018 bytes transfered. 2 sources connected
+[22/Jan/2020:13:20:06] [2:Source Thread] Kicking all 0 clients for source 0
+[22/Jan/2020:13:20:08] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 5 minutes and 58 seconds, 654 bytes transfered. 1 sources connected
+[22/Jan/2020:13:20:08] [3:Source Thread] Kicking all 0 clients for source 1
+[22/Jan/2020:13:20:10] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 5 minutes and 55 seconds, 97 bytes transfered. 0 sources connected
+[22/Jan/2020:13:20:10] [4:Source Thread] Kicking all 1 clients for source 2
+[22/Jan/2020:13:20:10] [4:Source Thread] Kicking client 4 [kor1] [192.168.130.43] [Stream ended] [listener], connected for 2 minutes and 43 seconds, 121493 bytes transfered. 0 clients connected
+[22/Jan/2020:13:20:33] [1:Calendar Thread] Bandwidth:31.883333KB/s Sources:0 Clients:0
+[23/Jan/2020:09:53:31] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[23/Jan/2020:09:53:31] [0:Main Thread] Using stdout as NtripCaster logging window
+[23/Jan/2020:09:53:31] [0:Main Thread] Starting main connection handler...
+[23/Jan/2020:09:53:31] [0:Main Thread] Listening on port 2101...
+[23/Jan/2020:09:53:31] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[23/Jan/2020:09:53:31] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[23/Jan/2020:09:53:31] [0:Main Thread] Starting Calender Thread...
+[23/Jan/2020:09:53:31] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[23/Jan/2020:09:53:33] [2:Connection Handler] No mount location file found.
+[23/Jan/2020:09:53:33] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[23/Jan/2020:09:53:35] [3:Connection Handler] No mount location file found.
+[23/Jan/2020:09:53:35] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[23/Jan/2020:09:53:38] [4:Connection Handler] No mount location file found.
+[23/Jan/2020:09:53:38] [4:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 3 sources connected
+[23/Jan/2020:09:53:43] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:09:54:35] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[23/Jan/2020:09:56:04] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[23/Jan/2020:09:57:04] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[23/Jan/2020:09:57:19] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:09:58:08] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[23/Jan/2020:09:58:43] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:09:58:51] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:09:59:13] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[23/Jan/2020:09:59:27] [5:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:10:01:35] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[23/Jan/2020:10:01:35] [0:Main Thread] Using stdout as NtripCaster logging window
+[23/Jan/2020:10:01:35] [0:Main Thread] Starting main connection handler...
+[23/Jan/2020:10:01:35] [0:Main Thread] Bind to socket on port 2101 failed. Shutting down now.
+[23/Jan/2020:10:01:35] [0:Main Thread] Cleanly shutting down...
+[23/Jan/2020:10:01:35] [0:Main Thread] Closing all listening sockets...
+[23/Jan/2020:10:01:35] [0:Main Thread] Telling threads to die...
+[23/Jan/2020:10:01:35] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[23/Jan/2020:10:01:35] [0:Main Thread] Closing all remaining sockets...
+[23/Jan/2020:10:01:35] [0:Main Thread] Removing remaining sources...
+[23/Jan/2020:10:01:35] [0:Main Thread] Exiting..
+[23/Jan/2020:10:01:36] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[23/Jan/2020:10:01:36] [0:Main Thread] Using stdout as NtripCaster logging window
+[23/Jan/2020:10:01:36] [0:Main Thread] Starting main connection handler...
+[23/Jan/2020:10:01:36] [0:Main Thread] Bind to socket on port 2101 failed. Shutting down now.
+[23/Jan/2020:10:01:36] [0:Main Thread] Cleanly shutting down...
+[23/Jan/2020:10:01:36] [0:Main Thread] Closing all listening sockets...
+[23/Jan/2020:10:01:36] [0:Main Thread] Telling threads to die...
+[23/Jan/2020:10:01:36] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[23/Jan/2020:10:01:36] [0:Main Thread] Closing all remaining sockets...
+[23/Jan/2020:10:01:36] [0:Main Thread] Removing remaining sources...
+[23/Jan/2020:10:01:36] [0:Main Thread] Exiting..
+[23/Jan/2020:10:01:38] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[23/Jan/2020:10:01:38] [0:Main Thread] Using stdout as NtripCaster logging window
+[23/Jan/2020:10:01:38] [0:Main Thread] Starting main connection handler...
+[23/Jan/2020:10:01:38] [0:Main Thread] Bind to socket on port 2101 failed. Shutting down now.
+[23/Jan/2020:10:01:38] [0:Main Thread] Cleanly shutting down...
+[23/Jan/2020:10:01:38] [0:Main Thread] Closing all listening sockets...
+[23/Jan/2020:10:01:38] [0:Main Thread] Telling threads to die...
+[23/Jan/2020:10:01:38] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[23/Jan/2020:10:01:38] [0:Main Thread] Closing all remaining sockets...
+[23/Jan/2020:10:01:38] [0:Main Thread] Removing remaining sources...
+[23/Jan/2020:10:01:38] [0:Main Thread] Exiting..
+[23/Jan/2020:10:01:40] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[23/Jan/2020:10:01:40] [2:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 7 minutes and 57 seconds, 142478 bytes transfered. 0 clients connected
+[23/Jan/2020:10:01:40] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:10:01:40] [6:Connection Handler] Accepted client 4 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:10:01:43] [4:Source Thread] Kicking client 4 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 3 seconds, 0 bytes transfered. 0 clients connected
+[23/Jan/2020:10:01:43] [7:Connection Handler] Accepted client 5 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:10:01:49] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:10:01:49] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:10:01:49] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:10:01:49] [7:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:10:05:00] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[23/Jan/2020:10:05:00] [0:Main Thread] Using stdout as NtripCaster logging window
+[23/Jan/2020:10:05:00] [0:Main Thread] Starting main connection handler...
+[23/Jan/2020:10:05:00] [0:Main Thread] Listening on port 2101...
+[23/Jan/2020:10:05:00] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[23/Jan/2020:10:05:00] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[23/Jan/2020:10:05:00] [0:Main Thread] Starting Calender Thread...
+[23/Jan/2020:10:05:00] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[23/Jan/2020:10:05:05] [2:Connection Handler] No mount location file found.
+[23/Jan/2020:10:05:05] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[23/Jan/2020:10:05:07] [3:Connection Handler] No mount location file found.
+[23/Jan/2020:10:05:07] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[23/Jan/2020:10:05:10] [4:Connection Handler] No mount location file found.
+[23/Jan/2020:10:05:10] [4:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 3 sources connected
+[23/Jan/2020:10:05:23] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:10:05:23] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:05:23] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:05:23] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:05:23] [5:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:10:05:45] [2:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 22 seconds, 14984 bytes transfered. 0 clients connected
+[23/Jan/2020:10:05:45] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:10:06:00] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:0
+[23/Jan/2020:10:06:14] [6:Connection Handler] Accepted client 4 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:10:06:14] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:10:06:14] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:10:06:14] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:10:06:17] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:10:06:17] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:10:06:17] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:10:06:17] [6:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:10:07:00] [2:Source Thread] Kicking client 4 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 46 seconds, 31293 bytes transfered. 0 clients connected
+[23/Jan/2020:10:07:00] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:10:07:00] [1:Calendar Thread] Bandwidth:6.866667KB/s Sources:3 Clients:0
+[23/Jan/2020:10:07:50] [7:Connection Handler] Accepted client 5 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:10:07:50] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:10:07:50] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:10:07:50] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:10:07:53] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:10:07:53] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:10:07:53] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:10:07:53] [7:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:10:08:00] [1:Calendar Thread] Bandwidth:8.066667KB/s Sources:3 Clients:1
+[23/Jan/2020:10:08:12] [2:Source Thread] Kicking client 5 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 22 seconds, 21254 bytes transfered. 0 clients connected
+[23/Jan/2020:10:08:12] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:10:08:16] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:10:08:16] [0:Main Thread] Cleanly shutting down...
+[23/Jan/2020:10:08:16] [0:Main Thread] Closing all listening sockets...
+[23/Jan/2020:10:08:16] [0:Main Thread] Telling threads to die...
+[23/Jan/2020:10:08:16] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[23/Jan/2020:10:08:16] [0:Main Thread] Closing all remaining sockets...
+[23/Jan/2020:10:08:16] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:10:08:16] [0:Main Thread] Waiting a wee while to let the other threads die..
+[23/Jan/2020:10:08:16] [2:Source Thread] Kicking all 0 clients for source 0
+[23/Jan/2020:10:08:16] [3:Source Thread] Kicking all 0 clients for source 1
+[23/Jan/2020:10:08:16] [4:Source Thread] Kicking all 3 clients for source 2
+[23/Jan/2020:10:08:16] [0:Main Thread] Finally alone
+[23/Jan/2020:10:08:16] [0:Main Thread] Removing remaining sources...
+[23/Jan/2020:10:08:16] [0:Main Thread] Exiting..
+[23/Jan/2020:10:08:48] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[23/Jan/2020:10:08:48] [0:Main Thread] Using stdout as NtripCaster logging window
+[23/Jan/2020:10:08:48] [0:Main Thread] Starting main connection handler...
+[23/Jan/2020:10:08:48] [0:Main Thread] Listening on port 2101...
+[23/Jan/2020:10:08:48] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[23/Jan/2020:10:08:48] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[23/Jan/2020:10:08:48] [0:Main Thread] Starting Calender Thread...
+[23/Jan/2020:10:08:48] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[23/Jan/2020:10:08:51] [2:Connection Handler] No mount location file found.
+[23/Jan/2020:10:08:51] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[23/Jan/2020:10:08:54] [3:Connection Handler] No mount location file found.
+[23/Jan/2020:10:08:54] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[23/Jan/2020:10:08:57] [4:Connection Handler] No mount location file found.
+[23/Jan/2020:10:08:57] [4:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 3 sources connected
+[23/Jan/2020:10:09:09] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:10:09:09] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:09:09] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:09:09] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:09:12] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:09:12] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:09:12] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:09:12] [5:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:10:09:16] [2:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 7 seconds, 16617 bytes transfered. 0 clients connected
+[23/Jan/2020:10:09:16] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:10:09:20] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 29 seconds, 659 bytes transfered. 2 sources connected
+[23/Jan/2020:10:09:20] [2:Source Thread] Kicking all 0 clients for source 0
+[23/Jan/2020:10:09:23] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 29 seconds, 392 bytes transfered. 1 sources connected
+[23/Jan/2020:10:09:23] [3:Source Thread] Kicking all 0 clients for source 1
+[23/Jan/2020:10:09:25] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 28 seconds, 435 bytes transfered. 0 sources connected
+[23/Jan/2020:10:09:25] [4:Source Thread] Kicking all 1 clients for source 2
+[23/Jan/2020:10:09:30] [0:Main Thread] Caught signal 2, perhaps someone is at the door?
+[23/Jan/2020:10:09:30] [0:Main Thread] Cleanly shutting down...
+[23/Jan/2020:10:09:30] [0:Main Thread] Closing all listening sockets...
+[23/Jan/2020:10:09:30] [0:Main Thread] Telling threads to die...
+[23/Jan/2020:10:09:30] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[23/Jan/2020:10:09:30] [0:Main Thread] Closing all remaining sockets...
+[23/Jan/2020:10:09:30] [0:Main Thread] Waiting a wee while to let the other threads die..
+[23/Jan/2020:10:09:30] [0:Main Thread] Finally alone
+[23/Jan/2020:10:09:30] [0:Main Thread] Removing remaining sources...
+[23/Jan/2020:10:09:30] [0:Main Thread] Exiting..
+[23/Jan/2020:10:12:35] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[23/Jan/2020:10:12:35] [0:Main Thread] Using stdout as NtripCaster logging window
+[23/Jan/2020:10:12:35] [0:Main Thread] Starting main connection handler...
+[23/Jan/2020:10:12:35] [0:Main Thread] Listening on port 2101...
+[23/Jan/2020:10:12:35] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[23/Jan/2020:10:12:35] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[23/Jan/2020:10:12:35] [0:Main Thread] Starting Calender Thread...
+[23/Jan/2020:10:12:35] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[23/Jan/2020:10:13:29] [2:Connection Handler] No mount location file found.
+[23/Jan/2020:10:13:29] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[23/Jan/2020:10:13:29] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[23/Jan/2020:10:13:32] [3:Connection Handler] No mount location file found.
+[23/Jan/2020:10:13:32] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[23/Jan/2020:10:13:44] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:2 Clients:1
+[23/Jan/2020:10:13:44] [4:Connection Handler] No mount location file found.
+[23/Jan/2020:10:13:44] [4:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 3 sources connected
+[23/Jan/2020:10:13:50] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:13:50] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:13:51] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:14:07] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:14:23] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:14:24] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:14:33] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:14:34] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:14:35] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:14:43] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:14:44] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[23/Jan/2020:10:14:44] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:14:46] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:14:47] [3:Source Thread] Didn't receive data from source after 16000 microseconds, assuming it died...
+[23/Jan/2020:10:14:47] [3:Source Thread] Lost connection to source on mount /GRAV, waiting 0 seconds for timeout
+[23/Jan/2020:10:14:47] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source died] [encoder], connected for 1 minutes and 20 seconds, 532 bytes transfered. 2 sources connected
+[23/Jan/2020:10:14:47] [3:Source Thread] Kicking all 0 clients for source 1
+[23/Jan/2020:10:14:48] [4:Source Thread] Didn't receive data from source after 16000 microseconds, assuming it died...
+[23/Jan/2020:10:14:48] [4:Source Thread] Lost connection to source on mount /PLAN, waiting 0 seconds for timeout
+[23/Jan/2020:10:14:48] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source died] [encoder], connected for 1 minutes and 21 seconds, 108 bytes transfered. 1 sources connected
+[23/Jan/2020:10:14:48] [4:Source Thread] Kicking all 0 clients for source 2
+[23/Jan/2020:10:14:53] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:15:01] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:15:16] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:15:24] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:15:32] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:15:42] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:10:15:44] [1:Calendar Thread] Bandwidth:0.950000KB/s Sources:1 Clients:1
+[23/Jan/2020:11:06:31] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[23/Jan/2020:11:06:31] [0:Main Thread] Using stdout as NtripCaster logging window
+[23/Jan/2020:11:06:31] [0:Main Thread] Starting main connection handler...
+[23/Jan/2020:11:06:31] [0:Main Thread] Listening on port 2101...
+[23/Jan/2020:11:06:31] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[23/Jan/2020:11:06:31] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[23/Jan/2020:11:06:31] [0:Main Thread] Starting Calender Thread...
+[23/Jan/2020:11:06:31] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[23/Jan/2020:11:06:41] [2:Connection Handler] No mount location file found.
+[23/Jan/2020:11:06:41] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[23/Jan/2020:11:06:44] [3:Connection Handler] No mount location file found.
+[23/Jan/2020:11:06:44] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[23/Jan/2020:11:06:46] [4:Connection Handler] No mount location file found.
+[23/Jan/2020:11:06:46] [4:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 3 sources connected
+[23/Jan/2020:11:07:09] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:11:07:09] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:11:07:09] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:11:07:09] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:11:07:12] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:11:07:12] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:11:07:12] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:11:07:12] [5:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:11:07:31] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[23/Jan/2020:11:07:42] [2:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 33 seconds, 24660 bytes transfered. 0 clients connected
+[23/Jan/2020:11:07:42] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:11:07:47] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 6 seconds, 974 bytes transfered. 2 sources connected
+[23/Jan/2020:11:07:47] [2:Source Thread] Kicking all 0 clients for source 0
+[23/Jan/2020:11:07:50] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 6 seconds, 428 bytes transfered. 1 sources connected
+[23/Jan/2020:11:07:50] [3:Source Thread] Kicking all 0 clients for source 1
+[23/Jan/2020:11:07:51] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 5 seconds, 95 bytes transfered. 0 sources connected
+[23/Jan/2020:11:07:51] [4:Source Thread] Kicking all 1 clients for source 2
+[23/Jan/2020:11:07:54] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:11:07:54] [0:Main Thread] Cleanly shutting down...
+[23/Jan/2020:11:07:54] [0:Main Thread] Closing all listening sockets...
+[23/Jan/2020:11:07:54] [0:Main Thread] Telling threads to die...
+[23/Jan/2020:11:07:54] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[23/Jan/2020:11:07:54] [0:Main Thread] Closing all remaining sockets...
+[23/Jan/2020:11:07:54] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:11:07:54] [0:Main Thread] Waiting a wee while to let the other threads die..
+[23/Jan/2020:11:07:55] [0:Main Thread] Finally alone
+[23/Jan/2020:11:07:55] [0:Main Thread] Removing remaining sources...
+[23/Jan/2020:11:07:55] [0:Main Thread] Exiting..
+[23/Jan/2020:11:08:33] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[23/Jan/2020:11:08:33] [0:Main Thread] Using stdout as NtripCaster logging window
+[23/Jan/2020:11:08:33] [0:Main Thread] Starting main connection handler...
+[23/Jan/2020:11:08:33] [0:Main Thread] Listening on port 2101...
+[23/Jan/2020:11:08:33] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[23/Jan/2020:11:08:33] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[23/Jan/2020:11:08:33] [0:Main Thread] Starting Calender Thread...
+[23/Jan/2020:11:08:33] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[23/Jan/2020:11:08:36] [2:Connection Handler] No mount location file found.
+[23/Jan/2020:11:08:36] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[23/Jan/2020:11:08:39] [3:Connection Handler] No mount location file found.
+[23/Jan/2020:11:08:39] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[23/Jan/2020:11:08:41] [4:Connection Handler] No mount location file found.
+[23/Jan/2020:11:08:41] [4:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 3 sources connected
+[23/Jan/2020:11:08:45] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:11:08:45] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:11:08:45] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:11:08:45] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:11:08:48] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:11:08:48] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:11:08:48] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:11:08:48] [5:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:11:09:01] [2:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 16 seconds, 14788 bytes transfered. 0 clients connected
+[23/Jan/2020:11:09:01] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:11:09:25] [6:Connection Handler] Accepted client 4 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:11:09:25] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:11:09:25] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:11:09:25] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:11:09:28] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:11:09:28] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:11:09:28] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:11:09:28] [6:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:11:09:33] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[23/Jan/2020:11:09:34] [2:Source Thread] Kicking client 4 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 9 seconds, 12451 bytes transfered. 0 clients connected
+[23/Jan/2020:11:09:34] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:11:09:49] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 13 seconds, 902 bytes transfered. 2 sources connected
+[23/Jan/2020:11:09:49] [2:Source Thread] Kicking all 0 clients for source 0
+[23/Jan/2020:11:09:52] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 13 seconds, 738 bytes transfered. 1 sources connected
+[23/Jan/2020:11:09:52] [3:Source Thread] Kicking all 0 clients for source 1
+[23/Jan/2020:11:09:54] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 13 seconds, 12 bytes transfered. 0 sources connected
+[23/Jan/2020:11:09:54] [4:Source Thread] Kicking all 2 clients for source 2
+[23/Jan/2020:11:09:56] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:11:09:56] [0:Main Thread] Cleanly shutting down...
+[23/Jan/2020:11:09:56] [0:Main Thread] Closing all listening sockets...
+[23/Jan/2020:11:09:56] [0:Main Thread] Telling threads to die...
+[23/Jan/2020:11:09:56] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[23/Jan/2020:11:09:56] [0:Main Thread] Closing all remaining sockets...
+[23/Jan/2020:11:09:56] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:11:09:56] [0:Main Thread] Removing remaining sources...
+[23/Jan/2020:11:09:56] [0:Main Thread] Exiting..
+[23/Jan/2020:12:17:50] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[23/Jan/2020:12:17:50] [0:Main Thread] Using stdout as NtripCaster logging window
+[23/Jan/2020:12:17:50] [0:Main Thread] Starting main connection handler...
+[23/Jan/2020:12:17:50] [0:Main Thread] Listening on port 2101...
+[23/Jan/2020:12:17:50] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[23/Jan/2020:12:17:50] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[23/Jan/2020:12:17:50] [0:Main Thread] Starting Calender Thread...
+[23/Jan/2020:12:17:50] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[23/Jan/2020:12:17:53] [2:Connection Handler] No mount location file found.
+[23/Jan/2020:12:17:53] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[23/Jan/2020:12:17:55] [3:Connection Handler] No mount location file found.
+[23/Jan/2020:12:17:55] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[23/Jan/2020:12:17:58] [4:Connection Handler] No mount location file found.
+[23/Jan/2020:12:17:58] [4:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 3 sources connected
+[23/Jan/2020:12:18:50] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:0
+[23/Jan/2020:12:18:54] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:12:18:54] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:18:54] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:18:54] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:18:57] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:18:57] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:18:57] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:18:57] [5:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:12:19:17] [6:Connection Handler] Accepted client 4 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 2 clients connected
+[23/Jan/2020:12:19:17] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:19:17] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:19:17] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:19:20] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:19:20] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:19:20] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:19:20] [6:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:12:19:27] [7:Connection Handler] Accepted client 5 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 3 clients connected
+[23/Jan/2020:12:19:27] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:12:19:27] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:12:19:27] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:12:19:30] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:12:19:30] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:12:19:30] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:12:19:30] [7:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:12:19:50] [1:Calendar Thread] Bandwidth:6.150000KB/s Sources:3 Clients:3
+[23/Jan/2020:12:20:15] [2:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 1 minutes and 21 seconds, 35170 bytes transfered. 2 clients connected
+[23/Jan/2020:12:20:15] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:12:20:17] [2:Source Thread] Kicking client 4 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 1 minutes, 30859 bytes transfered. 1 clients connected
+[23/Jan/2020:12:20:17] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:12:20:19] [2:Source Thread] Kicking client 5 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 52 seconds, 25618 bytes transfered. 0 clients connected
+[23/Jan/2020:12:20:19] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:12:20:38] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[23/Jan/2020:12:20:38] [0:Main Thread] Using stdout as NtripCaster logging window
+[23/Jan/2020:12:20:38] [0:Main Thread] Starting main connection handler...
+[23/Jan/2020:12:20:38] [0:Main Thread] Bind to socket on port 2101 failed. Shutting down now.
+[23/Jan/2020:12:20:38] [0:Main Thread] Cleanly shutting down...
+[23/Jan/2020:12:20:38] [0:Main Thread] Closing all listening sockets...
+[23/Jan/2020:12:20:38] [0:Main Thread] Telling threads to die...
+[23/Jan/2020:12:20:38] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[23/Jan/2020:12:20:38] [0:Main Thread] Closing all remaining sockets...
+[23/Jan/2020:12:20:38] [0:Main Thread] Removing remaining sources...
+[23/Jan/2020:12:20:38] [0:Main Thread] Exiting..
+[23/Jan/2020:12:20:45] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 2 minutes and 52 seconds, 887 bytes transfered. 2 sources connected
+[23/Jan/2020:12:20:45] [2:Source Thread] Kicking all 0 clients for source 0
+[23/Jan/2020:12:20:47] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 2 minutes and 52 seconds, 552 bytes transfered. 1 sources connected
+[23/Jan/2020:12:20:47] [3:Source Thread] Kicking all 0 clients for source 1
+[23/Jan/2020:12:20:50] [1:Calendar Thread] Bandwidth:7.033333KB/s Sources:1 Clients:0
+[23/Jan/2020:12:20:50] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 2 minutes and 52 seconds, 719 bytes transfered. 0 sources connected
+[23/Jan/2020:12:20:50] [4:Source Thread] Kicking all 3 clients for source 2
+[23/Jan/2020:12:20:53] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:12:20:53] [0:Main Thread] Cleanly shutting down...
+[23/Jan/2020:12:20:53] [0:Main Thread] Closing all listening sockets...
+[23/Jan/2020:12:20:53] [0:Main Thread] Telling threads to die...
+[23/Jan/2020:12:20:53] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[23/Jan/2020:12:20:53] [0:Main Thread] Closing all remaining sockets...
+[23/Jan/2020:12:20:53] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:12:20:53] [0:Main Thread] Waiting a wee while to let the other threads die..
+[23/Jan/2020:12:20:54] [0:Main Thread] Finally alone
+[23/Jan/2020:12:20:54] [0:Main Thread] Removing remaining sources...
+[23/Jan/2020:12:20:54] [0:Main Thread] Exiting..
+[23/Jan/2020:12:21:05] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[23/Jan/2020:12:21:05] [0:Main Thread] Using stdout as NtripCaster logging window
+[23/Jan/2020:12:21:05] [0:Main Thread] Starting main connection handler...
+[23/Jan/2020:12:21:05] [0:Main Thread] Listening on port 2101...
+[23/Jan/2020:12:21:05] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[23/Jan/2020:12:21:05] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[23/Jan/2020:12:21:05] [0:Main Thread] Starting Calender Thread...
+[23/Jan/2020:12:21:05] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[23/Jan/2020:12:21:08] [2:Connection Handler] No mount location file found.
+[23/Jan/2020:12:21:08] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[23/Jan/2020:12:21:11] [3:Connection Handler] No mount location file found.
+[23/Jan/2020:12:21:11] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[23/Jan/2020:12:21:13] [4:Connection Handler] No mount location file found.
+[23/Jan/2020:12:21:13] [4:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 3 sources connected
+[23/Jan/2020:12:21:18] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:12:21:18] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:21:18] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:21:18] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:21:21] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:21:21] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:21:21] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:21:21] [5:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:12:21:55] [6:Connection Handler] Accepted client 4 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 2 clients connected
+[23/Jan/2020:12:21:55] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:21:55] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:21:55] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:21:58] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:21:58] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:21:58] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:21:58] [6:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:12:22:05] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:2
+[23/Jan/2020:12:22:12] [7:Connection Handler] Accepted client 5 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 3 clients connected
+[23/Jan/2020:12:22:12] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:12:22:12] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:12:22:12] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:12:22:15] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:12:22:15] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:12:22:15] [7:Connection Handler] No mount location file found.
+[23/Jan/2020:12:22:15] [7:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:12:22:41] [2:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 1 minutes and 23 seconds, 38882 bytes transfered. 2 clients connected
+[23/Jan/2020:12:22:41] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:12:22:43] [2:Source Thread] Kicking client 4 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 48 seconds, 29888 bytes transfered. 1 clients connected
+[23/Jan/2020:12:22:43] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:12:22:44] [2:Source Thread] Kicking client 5 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 32 seconds, 20082 bytes transfered. 0 clients connected
+[23/Jan/2020:12:22:44] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:12:22:48] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 40 seconds, 65 bytes transfered. 2 sources connected
+[23/Jan/2020:12:22:48] [2:Source Thread] Kicking all 0 clients for source 0
+[23/Jan/2020:12:22:50] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 39 seconds, 262 bytes transfered. 1 sources connected
+[23/Jan/2020:12:22:50] [3:Source Thread] Kicking all 0 clients for source 1
+[23/Jan/2020:12:22:52] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 39 seconds, 88 bytes transfered. 0 sources connected
+[23/Jan/2020:12:22:52] [4:Source Thread] Kicking all 3 clients for source 2
+[23/Jan/2020:12:22:54] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:12:22:54] [0:Main Thread] Cleanly shutting down...
+[23/Jan/2020:12:22:54] [0:Main Thread] Closing all listening sockets...
+[23/Jan/2020:12:22:54] [0:Main Thread] Telling threads to die...
+[23/Jan/2020:12:22:54] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[23/Jan/2020:12:22:54] [0:Main Thread] Closing all remaining sockets...
+[23/Jan/2020:12:22:54] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:12:22:54] [0:Main Thread] Removing remaining sources...
+[23/Jan/2020:12:22:54] [0:Main Thread] Exiting..
+[23/Jan/2020:12:27:40] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[23/Jan/2020:12:27:40] [0:Main Thread] Using stdout as NtripCaster logging window
+[23/Jan/2020:12:27:40] [0:Main Thread] Starting main connection handler...
+[23/Jan/2020:12:27:40] [0:Main Thread] Listening on port 2101...
+[23/Jan/2020:12:27:40] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[23/Jan/2020:12:27:40] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[23/Jan/2020:12:27:40] [0:Main Thread] Starting Calender Thread...
+[23/Jan/2020:12:27:40] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[23/Jan/2020:12:27:43] [2:Connection Handler] No mount location file found.
+[23/Jan/2020:12:27:43] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[23/Jan/2020:12:27:46] [3:Connection Handler] No mount location file found.
+[23/Jan/2020:12:27:46] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[23/Jan/2020:12:27:49] [4:Connection Handler] No mount location file found.
+[23/Jan/2020:12:27:49] [4:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 3 sources connected
+[23/Jan/2020:12:27:54] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:12:27:54] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:27:54] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:27:54] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:27:57] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:27:57] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:27:57] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:27:57] [5:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:12:28:06] [2:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 12 seconds, 12420 bytes transfered. 0 clients connected
+[23/Jan/2020:12:28:06] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:12:28:09] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 26 seconds, 277 bytes transfered. 2 sources connected
+[23/Jan/2020:12:28:09] [2:Source Thread] Kicking all 0 clients for source 0
+[23/Jan/2020:12:28:11] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 25 seconds, 73 bytes transfered. 1 sources connected
+[23/Jan/2020:12:28:11] [3:Source Thread] Kicking all 0 clients for source 1
+[23/Jan/2020:12:28:13] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 24 seconds, 1000 bytes transfered. 0 sources connected
+[23/Jan/2020:12:28:13] [4:Source Thread] Kicking all 1 clients for source 2
+[23/Jan/2020:12:28:15] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:12:28:15] [0:Main Thread] Cleanly shutting down...
+[23/Jan/2020:12:28:15] [0:Main Thread] Closing all listening sockets...
+[23/Jan/2020:12:28:15] [0:Main Thread] Telling threads to die...
+[23/Jan/2020:12:28:15] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[23/Jan/2020:12:28:15] [0:Main Thread] Closing all remaining sockets...
+[23/Jan/2020:12:28:15] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:12:28:15] [0:Main Thread] Waiting a wee while to let the other threads die..
+[23/Jan/2020:12:28:15] [0:Main Thread] Finally alone
+[23/Jan/2020:12:28:15] [0:Main Thread] Removing remaining sources...
+[23/Jan/2020:12:28:15] [0:Main Thread] Exiting..
+[23/Jan/2020:12:38:43] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[23/Jan/2020:12:38:43] [0:Main Thread] Using stdout as NtripCaster logging window
+[23/Jan/2020:12:38:43] [0:Main Thread] Starting main connection handler...
+[23/Jan/2020:12:38:43] [0:Main Thread] Listening on port 2101...
+[23/Jan/2020:12:38:43] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[23/Jan/2020:12:38:43] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[23/Jan/2020:12:38:43] [0:Main Thread] Starting Calender Thread...
+[23/Jan/2020:12:38:43] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[23/Jan/2020:12:38:58] [2:Connection Handler] No mount location file found.
+[23/Jan/2020:12:38:58] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[23/Jan/2020:12:39:01] [3:Connection Handler] No mount location file found.
+[23/Jan/2020:12:39:01] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[23/Jan/2020:12:39:04] [4:Connection Handler] No mount location file found.
+[23/Jan/2020:12:39:04] [4:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 3 sources connected
+[23/Jan/2020:12:39:08] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:12:39:08] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:39:08] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:39:08] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:39:11] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:39:11] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:39:11] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:39:11] [5:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:12:39:43] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[23/Jan/2020:12:40:43] [1:Calendar Thread] Bandwidth:6.283333KB/s Sources:3 Clients:1
+[23/Jan/2020:12:41:43] [1:Calendar Thread] Bandwidth:6.783333KB/s Sources:3 Clients:1
+[23/Jan/2020:12:42:01] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 3 minutes and 3 seconds, 1009 bytes transfered. 2 sources connected
+[23/Jan/2020:12:42:01] [2:Source Thread] Kicking all 0 clients for source 0
+[23/Jan/2020:12:42:01] [2:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Stream ended] [listener], connected for 2 minutes and 53 seconds, 66670 bytes transfered. 0 clients connected
+[23/Jan/2020:12:42:01] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:12:42:01] [6:Connection Handler] Accepted client 4 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:12:42:01] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:42:01] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:42:03] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 3 minutes and 2 seconds, 801 bytes transfered. 1 sources connected
+[23/Jan/2020:12:42:03] [3:Source Thread] Kicking all 0 clients for source 1
+[23/Jan/2020:12:42:04] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:42:06] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 3 minutes and 2 seconds, 29 bytes transfered. 0 sources connected
+[23/Jan/2020:12:42:06] [4:Source Thread] Kicking all 2 clients for source 2
+[23/Jan/2020:12:42:06] [4:Source Thread] Kicking client 4 [kor2] [192.168.130.43] [Stream ended] [listener], connected for 5 seconds, 11950 bytes transfered. 0 clients connected
+[23/Jan/2020:12:42:06] [7:Connection Handler] Kicking unknown 5 [192.168.130.43] [Transfer Sourcetable], connected for 0 seconds
+[23/Jan/2020:12:42:07] [8:Connection Handler] Kicking unknown 6 [192.168.130.43] [Transfer Sourcetable], connected for 0 seconds
+[23/Jan/2020:12:42:09] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:12:42:09] [0:Main Thread] Cleanly shutting down...
+[23/Jan/2020:12:42:09] [0:Main Thread] Closing all listening sockets...
+[23/Jan/2020:12:42:09] [0:Main Thread] Telling threads to die...
+[23/Jan/2020:12:42:09] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[23/Jan/2020:12:42:09] [0:Main Thread] Closing all remaining sockets...
+[23/Jan/2020:12:42:09] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:12:42:09] [0:Main Thread] Waiting a wee while to let the other threads die..
+[23/Jan/2020:12:42:09] [0:Main Thread] Finally alone
+[23/Jan/2020:12:42:09] [0:Main Thread] Removing remaining sources...
+[23/Jan/2020:12:42:09] [0:Main Thread] Exiting..
+[23/Jan/2020:12:44:30] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[23/Jan/2020:12:44:30] [0:Main Thread] Using stdout as NtripCaster logging window
+[23/Jan/2020:12:44:30] [0:Main Thread] Starting main connection handler...
+[23/Jan/2020:12:44:30] [0:Main Thread] Listening on port 2101...
+[23/Jan/2020:12:44:30] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[23/Jan/2020:12:44:30] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[23/Jan/2020:12:44:30] [0:Main Thread] Starting Calender Thread...
+[23/Jan/2020:12:44:30] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[23/Jan/2020:12:44:33] [2:Connection Handler] No mount location file found.
+[23/Jan/2020:12:44:33] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[23/Jan/2020:12:44:36] [3:Connection Handler] No mount location file found.
+[23/Jan/2020:12:44:36] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[23/Jan/2020:12:44:39] [4:Connection Handler] No mount location file found.
+[23/Jan/2020:12:44:39] [4:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 3 sources connected
+[23/Jan/2020:12:44:40] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:12:44:40] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:44:40] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:44:40] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:44:43] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:44:43] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:44:43] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:44:43] [5:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:12:44:47] [2:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 7 seconds, 8965 bytes transfered. 0 clients connected
+[23/Jan/2020:12:44:47] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:12:44:55] [6:Connection Handler] Accepted client 4 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:12:44:55] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:44:55] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:44:55] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:44:58] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:44:58] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:44:58] [6:Connection Handler] No mount location file found.
+[23/Jan/2020:12:44:58] [6:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:12:45:30] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[23/Jan/2020:12:45:43] [2:Source Thread] Kicking client 4 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 48 seconds, 27415 bytes transfered. 0 clients connected
+[23/Jan/2020:12:45:43] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:12:45:46] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 13 seconds, 203 bytes transfered. 2 sources connected
+[23/Jan/2020:12:45:46] [2:Source Thread] Kicking all 0 clients for source 0
+[23/Jan/2020:12:45:48] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 12 seconds, 266 bytes transfered. 1 sources connected
+[23/Jan/2020:12:45:48] [3:Source Thread] Kicking all 0 clients for source 1
+[23/Jan/2020:12:45:50] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 11 seconds, 386 bytes transfered. 0 sources connected
+[23/Jan/2020:12:45:50] [4:Source Thread] Kicking all 2 clients for source 2
+[23/Jan/2020:12:45:53] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:12:45:53] [0:Main Thread] Cleanly shutting down...
+[23/Jan/2020:12:45:53] [0:Main Thread] Closing all listening sockets...
+[23/Jan/2020:12:45:53] [0:Main Thread] Telling threads to die...
+[23/Jan/2020:12:45:53] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[23/Jan/2020:12:45:53] [0:Main Thread] Closing all remaining sockets...
+[23/Jan/2020:12:45:53] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:12:45:53] [0:Main Thread] Waiting a wee while to let the other threads die..
+[23/Jan/2020:12:45:54] [0:Main Thread] Finally alone
+[23/Jan/2020:12:45:54] [0:Main Thread] Removing remaining sources...
+[23/Jan/2020:12:45:54] [0:Main Thread] Exiting..
+[23/Jan/2020:12:47:37] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[23/Jan/2020:12:47:37] [0:Main Thread] Using stdout as NtripCaster logging window
+[23/Jan/2020:12:47:37] [0:Main Thread] Starting main connection handler...
+[23/Jan/2020:12:47:37] [0:Main Thread] Listening on port 2101...
+[23/Jan/2020:12:47:37] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[23/Jan/2020:12:47:37] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[23/Jan/2020:12:47:37] [0:Main Thread] Starting Calender Thread...
+[23/Jan/2020:12:47:37] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[23/Jan/2020:12:47:40] [2:Connection Handler] No mount location file found.
+[23/Jan/2020:12:47:40] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[23/Jan/2020:12:47:43] [3:Connection Handler] No mount location file found.
+[23/Jan/2020:12:47:43] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[23/Jan/2020:12:47:45] [4:Connection Handler] No mount location file found.
+[23/Jan/2020:12:47:45] [4:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 3 sources connected
+[23/Jan/2020:12:47:50] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:12:47:50] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:47:50] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:47:50] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:47:53] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:47:53] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:47:53] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:47:53] [5:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:12:48:37] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[23/Jan/2020:12:48:37] [2:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 47 seconds, 28213 bytes transfered. 0 clients connected
+[23/Jan/2020:12:48:37] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:12:48:39] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 59 seconds, 1013 bytes transfered. 2 sources connected
+[23/Jan/2020:12:48:39] [2:Source Thread] Kicking all 0 clients for source 0
+[23/Jan/2020:12:48:41] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 58 seconds, 849 bytes transfered. 1 sources connected
+[23/Jan/2020:12:48:41] [3:Source Thread] Kicking all 0 clients for source 1
+[23/Jan/2020:12:48:43] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 58 seconds, 302 bytes transfered. 0 sources connected
+[23/Jan/2020:12:48:43] [4:Source Thread] Kicking all 1 clients for source 2
+[23/Jan/2020:12:48:45] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:12:48:45] [0:Main Thread] Cleanly shutting down...
+[23/Jan/2020:12:48:45] [0:Main Thread] Closing all listening sockets...
+[23/Jan/2020:12:48:45] [0:Main Thread] Telling threads to die...
+[23/Jan/2020:12:48:45] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[23/Jan/2020:12:48:45] [0:Main Thread] Closing all remaining sockets...
+[23/Jan/2020:12:48:45] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:12:48:45] [0:Main Thread] Waiting a wee while to let the other threads die..
+[23/Jan/2020:12:48:45] [0:Main Thread] Finally alone
+[23/Jan/2020:12:48:45] [0:Main Thread] Removing remaining sources...
+[23/Jan/2020:12:48:45] [0:Main Thread] Exiting..
+[23/Jan/2020:12:50:19] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[23/Jan/2020:12:50:19] [0:Main Thread] Using stdout as NtripCaster logging window
+[23/Jan/2020:12:50:19] [0:Main Thread] Starting main connection handler...
+[23/Jan/2020:12:50:19] [0:Main Thread] Listening on port 2101...
+[23/Jan/2020:12:50:19] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[23/Jan/2020:12:50:19] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[23/Jan/2020:12:50:19] [0:Main Thread] Starting Calender Thread...
+[23/Jan/2020:12:50:19] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[23/Jan/2020:12:50:22] [2:Connection Handler] No mount location file found.
+[23/Jan/2020:12:50:22] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[23/Jan/2020:12:50:25] [3:Connection Handler] No mount location file found.
+[23/Jan/2020:12:50:25] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[23/Jan/2020:12:50:27] [4:Connection Handler] No mount location file found.
+[23/Jan/2020:12:50:27] [4:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 3 sources connected
+[23/Jan/2020:12:50:32] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[23/Jan/2020:12:50:32] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:50:32] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:50:32] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:50:35] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:50:35] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:50:35] [5:Connection Handler] No mount location file found.
+[23/Jan/2020:12:50:35] [5:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[23/Jan/2020:12:50:47] [2:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 15 seconds, 15229 bytes transfered. 0 clients connected
+[23/Jan/2020:12:50:47] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[23/Jan/2020:12:50:49] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 27 seconds, 47 bytes transfered. 2 sources connected
+[23/Jan/2020:12:50:49] [2:Source Thread] Kicking all 0 clients for source 0
+[23/Jan/2020:12:50:51] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 26 seconds, 42 bytes transfered. 1 sources connected
+[23/Jan/2020:12:50:51] [3:Source Thread] Kicking all 0 clients for source 1
+[23/Jan/2020:12:50:53] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 26 seconds, 569 bytes transfered. 0 sources connected
+[23/Jan/2020:12:50:53] [4:Source Thread] Kicking all 1 clients for source 2
+[23/Jan/2020:12:50:54] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:12:50:54] [0:Main Thread] Cleanly shutting down...
+[23/Jan/2020:12:50:54] [0:Main Thread] Closing all listening sockets...
+[23/Jan/2020:12:50:54] [0:Main Thread] Telling threads to die...
+[23/Jan/2020:12:50:54] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[23/Jan/2020:12:50:54] [0:Main Thread] Closing all remaining sockets...
+[23/Jan/2020:12:50:54] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[23/Jan/2020:12:50:54] [0:Main Thread] Waiting a wee while to let the other threads die..
+[23/Jan/2020:12:50:54] [0:Main Thread] Finally alone
+[23/Jan/2020:12:50:54] [0:Main Thread] Removing remaining sources...
+[23/Jan/2020:12:50:54] [0:Main Thread] Exiting..
+[24/Jan/2020:12:20:28] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[24/Jan/2020:12:20:28] [0:Main Thread] Using stdout as NtripCaster logging window
+[24/Jan/2020:12:20:28] [0:Main Thread] Starting main connection handler...
+[24/Jan/2020:12:20:28] [0:Main Thread] Listening on port 2101...
+[24/Jan/2020:12:20:28] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[24/Jan/2020:12:20:28] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[24/Jan/2020:12:20:28] [0:Main Thread] Starting Calender Thread...
+[24/Jan/2020:12:20:28] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[24/Jan/2020:12:20:46] [2:Connection Handler] No mount location file found.
+[24/Jan/2020:12:20:46] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[24/Jan/2020:12:20:58] [3:Connection Handler] No mount location file found.
+[24/Jan/2020:12:20:58] [3:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[24/Jan/2020:12:21:08] [4:Connection Handler] No mount location file found.
+[24/Jan/2020:12:21:08] [4:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 3 sources connected
+[24/Jan/2020:12:21:15] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/PLAN]. 1 clients connected
+[24/Jan/2020:12:21:29] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[24/Jan/2020:12:22:29] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[24/Jan/2020:12:24:41] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[24/Jan/2020:12:26:10] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[27/Jan/2020:08:54:16] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:08:54:16] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:08:54:16] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:08:54:16] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:08:54:16] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:08:54:16] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:08:54:16] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:08:54:16] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:08:54:20] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:08:54:20] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:08:54:23] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:08:54:23] [3:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[27/Jan/2020:08:54:25] [4:Connection Handler] No mount location file found.
+[27/Jan/2020:08:54:25] [4:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 3 sources connected
+[27/Jan/2020:08:54:36] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/GRAV]. 1 clients connected
+[27/Jan/2020:08:54:36] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:08:54:36] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:08:54:36] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:08:54:39] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:08:54:39] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:08:54:39] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:08:54:39] [5:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[27/Jan/2020:08:55:16] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[27/Jan/2020:08:55:56] [2:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 1 minutes and 20 seconds, 55058 bytes transfered. 0 clients connected
+[27/Jan/2020:08:55:56] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[27/Jan/2020:08:55:58] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 38 seconds, 841 bytes transfered. 2 sources connected
+[27/Jan/2020:08:55:58] [2:Source Thread] Kicking all 0 clients for source 0
+[27/Jan/2020:08:56:00] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 37 seconds, 623 bytes transfered. 1 sources connected
+[27/Jan/2020:08:56:00] [3:Source Thread] Kicking all 0 clients for source 1
+[27/Jan/2020:08:56:02] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 37 seconds, 238 bytes transfered. 0 sources connected
+[27/Jan/2020:08:56:02] [4:Source Thread] Kicking all 1 clients for source 2
+[27/Jan/2020:08:56:04] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:08:56:04] [0:Main Thread] Cleanly shutting down...
+[27/Jan/2020:08:56:04] [0:Main Thread] Closing all listening sockets...
+[27/Jan/2020:08:56:04] [0:Main Thread] Telling threads to die...
+[27/Jan/2020:08:56:04] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[27/Jan/2020:08:56:04] [0:Main Thread] Closing all remaining sockets...
+[27/Jan/2020:08:56:04] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:08:56:04] [0:Main Thread] Waiting a wee while to let the other threads die..
+[27/Jan/2020:08:56:04] [0:Main Thread] Finally alone
+[27/Jan/2020:08:56:04] [0:Main Thread] Removing remaining sources...
+[27/Jan/2020:08:56:04] [0:Main Thread] Exiting..
+[27/Jan/2020:09:02:14] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:09:02:14] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:09:02:14] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:09:02:14] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:09:02:14] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:09:02:14] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:09:02:14] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:09:02:14] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:09:02:22] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:09:02:22] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:09:02:27] [3:Connection Handler] Accepted client 1 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[27/Jan/2020:09:04:07] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:09:04:07] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:09:04:07] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:09:04:07] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:09:04:07] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:09:04:07] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:09:04:07] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:09:04:07] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:09:04:13] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:09:04:13] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:09:04:17] [3:Connection Handler] Accepted client 1 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[27/Jan/2020:10:12:04] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:10:12:04] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:10:12:04] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:10:12:04] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:10:12:04] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:10:12:04] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:10:12:04] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:10:12:04] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:10:12:09] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:10:12:09] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:10:12:15] [3:Connection Handler] Accepted client 1 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[27/Jan/2020:10:12:15] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:12:18] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:12:21] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:12:24] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:12:27] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:12:30] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:12:33] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:12:36] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:12:39] [2:Source Thread] Kicking client 1 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 24 seconds, 11789 bytes transfered. 0 clients connected
+[27/Jan/2020:10:12:42] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:10:12:42] [0:Main Thread] Cleanly shutting down...
+[27/Jan/2020:10:12:42] [0:Main Thread] Closing all listening sockets...
+[27/Jan/2020:10:12:42] [0:Main Thread] Telling threads to die...
+[27/Jan/2020:10:12:42] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[27/Jan/2020:10:12:42] [0:Main Thread] Closing all remaining sockets...
+[27/Jan/2020:10:12:42] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:10:12:42] [0:Main Thread] Waiting a wee while to let the other threads die..
+[27/Jan/2020:10:12:42] [2:Source Thread] Kicking all 0 clients for source 0
+[27/Jan/2020:10:12:42] [0:Main Thread] Finally alone
+[27/Jan/2020:10:12:42] [0:Main Thread] Removing remaining sources...
+[27/Jan/2020:10:12:42] [0:Main Thread] Exiting..
+[27/Jan/2020:10:17:05] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:10:17:05] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:10:17:05] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:10:17:05] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:10:17:05] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:10:17:05] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:10:17:05] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:10:17:05] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:10:17:08] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:10:17:08] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:10:17:13] [3:Connection Handler] Accepted client 1 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[27/Jan/2020:10:17:13] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:17:16] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:17:19] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:17:22] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:17:25] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:17:28] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:17:31] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:17:34] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:17:36] [2:Source Thread] Kicking client 1 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 23 seconds, 10609 bytes transfered. 0 clients connected
+[27/Jan/2020:10:17:39] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 31 seconds, 141 bytes transfered. 0 sources connected
+[27/Jan/2020:10:17:39] [2:Source Thread] Kicking all 0 clients for source 0
+[27/Jan/2020:10:17:42] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:10:17:42] [0:Main Thread] Cleanly shutting down...
+[27/Jan/2020:10:17:42] [0:Main Thread] Closing all listening sockets...
+[27/Jan/2020:10:17:42] [0:Main Thread] Telling threads to die...
+[27/Jan/2020:10:17:42] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[27/Jan/2020:10:17:42] [0:Main Thread] Closing all remaining sockets...
+[27/Jan/2020:10:17:42] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:10:17:42] [0:Main Thread] Waiting a wee while to let the other threads die..
+[27/Jan/2020:10:17:42] [0:Main Thread] Finally alone
+[27/Jan/2020:10:17:42] [0:Main Thread] Removing remaining sources...
+[27/Jan/2020:10:17:42] [0:Main Thread] Exiting..
+[27/Jan/2020:10:18:48] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:10:18:48] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:10:18:48] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:10:18:48] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:10:18:48] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:10:18:48] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:10:18:48] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:10:18:48] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:10:18:51] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:10:18:51] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:10:18:55] [3:Connection Handler] Accepted client 1 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[27/Jan/2020:10:18:55] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:18:58] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:19:01] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:19:04] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:19:07] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:19:10] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:19:13] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:19:16] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:19:19] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:19:22] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:19:25] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:19:26] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 35 seconds, 985 bytes transfered. 0 sources connected
+[27/Jan/2020:10:19:26] [2:Source Thread] Kicking all 1 clients for source 0
+[27/Jan/2020:10:19:26] [2:Source Thread] Kicking client 1 [kor2] [192.168.130.43] [Stream ended] [listener], connected for 31 seconds, 14328 bytes transfered. 0 clients connected
+[27/Jan/2020:10:19:26] [4:Connection Handler] Kicking unknown 2 [192.168.130.43] [Transfer Sourcetable], connected for 0 seconds
+[27/Jan/2020:10:19:27] [5:Connection Handler] Kicking unknown 3 [192.168.130.43] [Transfer Sourcetable], connected for 0 seconds
+[27/Jan/2020:10:19:32] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:10:19:32] [0:Main Thread] Cleanly shutting down...
+[27/Jan/2020:10:19:32] [0:Main Thread] Closing all listening sockets...
+[27/Jan/2020:10:19:32] [0:Main Thread] Telling threads to die...
+[27/Jan/2020:10:19:32] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[27/Jan/2020:10:19:32] [0:Main Thread] Closing all remaining sockets...
+[27/Jan/2020:10:19:32] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:10:19:32] [0:Main Thread] Waiting a wee while to let the other threads die..
+[27/Jan/2020:10:19:32] [0:Main Thread] Finally alone
+[27/Jan/2020:10:19:32] [0:Main Thread] Removing remaining sources...
+[27/Jan/2020:10:19:32] [0:Main Thread] Exiting..
+[27/Jan/2020:10:20:26] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:10:20:26] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:10:20:26] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:10:20:26] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:10:20:26] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:10:20:26] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:10:20:26] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:10:20:26] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:10:20:32] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:10:20:32] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:10:20:35] [3:Connection Handler] Accepted client 1 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[27/Jan/2020:10:20:35] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:20:38] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:20:41] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:20:44] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:20:47] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:20:50] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:20:53] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:20:55] [2:Source Thread] Kicking client 1 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 20 seconds, 8677 bytes transfered. 0 clients connected
+[27/Jan/2020:10:20:59] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 27 seconds, 340 bytes transfered. 0 sources connected
+[27/Jan/2020:10:20:59] [2:Source Thread] Kicking all 0 clients for source 0
+[27/Jan/2020:10:21:01] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:10:21:01] [0:Main Thread] Cleanly shutting down...
+[27/Jan/2020:10:21:01] [0:Main Thread] Closing all listening sockets...
+[27/Jan/2020:10:21:01] [0:Main Thread] Telling threads to die...
+[27/Jan/2020:10:21:01] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[27/Jan/2020:10:21:01] [0:Main Thread] Closing all remaining sockets...
+[27/Jan/2020:10:21:01] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:10:21:01] [0:Main Thread] Waiting a wee while to let the other threads die..
+[27/Jan/2020:10:21:01] [0:Main Thread] Finally alone
+[27/Jan/2020:10:21:01] [0:Main Thread] Removing remaining sources...
+[27/Jan/2020:10:21:01] [0:Main Thread] Exiting..
+[27/Jan/2020:10:35:51] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:10:35:51] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:10:35:51] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:10:35:51] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:10:35:51] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:10:35:51] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:10:35:51] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:10:35:51] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:10:35:55] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:10:35:55] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:10:35:59] [3:Connection Handler] Accepted client 1 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[27/Jan/2020:10:35:59] [3:Connection Handler] Latitude GPGGA message format: k]Ôz[AÈ?Y
+
+[27/Jan/2020:10:35:59] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:36:02] [3:Connection Handler] Latitude GPGGA message format: k]Ôz[AÈ?Î^tù∑◊?§p=
+◊p@lP∂ù£U
+
+[27/Jan/2020:10:36:02] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:36:05] [3:Connection Handler] Latitude GPGGA message format: k]Ôz[AÈ?Î^tù∑◊?§p=
+◊p@lP∂ù£U
+
+[27/Jan/2020:10:36:05] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:36:08] [3:Connection Handler] Latitude GPGGA message format: k]Ôz[AÈ?Î^tù∑◊?§p=
+◊p@lP∂ù£U
+
+[27/Jan/2020:10:36:08] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:36:11] [3:Connection Handler] Latitude GPGGA message format: k]Ôz[AÈ?Î^tù∑◊?§p=
+◊p@lP∂ù£U
+
+[27/Jan/2020:10:36:11] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:36:14] [3:Connection Handler] Latitude GPGGA message format: k]Ôz[AÈ?Î^tù∑◊?§p=
+◊p@lP∂ù£U
+
+[27/Jan/2020:10:36:14] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:36:17] [2:Source Thread] Kicking client 1 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 18 seconds, 6297 bytes transfered. 0 clients connected
+[27/Jan/2020:10:36:21] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 26 seconds, 328 bytes transfered. 0 sources connected
+[27/Jan/2020:10:36:21] [2:Source Thread] Kicking all 0 clients for source 0
+[27/Jan/2020:10:36:22] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:10:36:22] [0:Main Thread] Cleanly shutting down...
+[27/Jan/2020:10:36:22] [0:Main Thread] Closing all listening sockets...
+[27/Jan/2020:10:36:22] [0:Main Thread] Telling threads to die...
+[27/Jan/2020:10:36:22] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[27/Jan/2020:10:36:22] [0:Main Thread] Closing all remaining sockets...
+[27/Jan/2020:10:36:22] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:10:36:22] [0:Main Thread] Waiting a wee while to let the other threads die..
+[27/Jan/2020:10:36:22] [0:Main Thread] Finally alone
+[27/Jan/2020:10:36:22] [0:Main Thread] Removing remaining sources...
+[27/Jan/2020:10:36:22] [0:Main Thread] Exiting..
+[27/Jan/2020:10:36:43] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:10:36:43] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:10:36:43] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:10:36:43] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:10:36:43] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:10:36:43] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:10:36:43] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:10:36:43] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:10:36:45] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:10:36:45] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:10:36:48] [3:Connection Handler] Accepted client 1 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[27/Jan/2020:10:36:55] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:10:36:55] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:10:36:55] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:10:36:55] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:10:36:55] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:10:36:55] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:10:36:55] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:10:36:55] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:10:37:00] [2:Connection Handler] Kicking unknown 0 [192.168.130.43] [Transfer Sourcetable], connected for 0 seconds
+[27/Jan/2020:10:37:02] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:10:37:02] [3:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:10:37:07] [4:Connection Handler] Accepted client 2 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[27/Jan/2020:10:37:24] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:10:37:24] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:10:37:24] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:10:37:24] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:10:37:24] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:10:37:24] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:10:37:24] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:10:37:24] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:10:37:27] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:10:37:27] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:10:37:31] [3:Connection Handler] Accepted client 1 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[27/Jan/2020:10:38:45] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:10:38:45] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:10:38:45] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:10:38:45] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:10:38:45] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:10:38:45] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:10:38:45] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:10:38:45] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:10:38:50] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:10:38:50] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:10:38:57] [3:Connection Handler] Accepted client 1 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[27/Jan/2020:10:40:03] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:10:40:03] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:10:40:03] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:10:40:03] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:10:40:03] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:10:40:03] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:10:40:03] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:10:40:03] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:10:40:08] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:10:40:08] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:10:40:11] [3:Connection Handler] Accepted client 1 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[27/Jan/2020:10:47:41] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:10:47:41] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:10:47:41] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:10:47:41] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:10:47:41] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:10:47:41] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:10:47:41] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:10:47:41] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:10:47:44] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:10:47:44] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:10:47:48] [3:Connection Handler] Accepted client 1 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[27/Jan/2020:10:48:41] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:10:48:41] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:10:48:41] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:10:48:41] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:10:48:41] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:10:48:41] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:10:48:41] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:10:48:41] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:10:48:43] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:10:48:43] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:10:48:47] [3:Connection Handler] Accepted client 1 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[27/Jan/2020:11:38:22] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:11:38:22] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:11:38:22] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:11:38:22] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:11:38:22] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:11:38:22] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:11:38:22] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:11:38:22] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:11:38:44] [5:Connection Handler] Kicking unknown 3 [192.168.130.43] [Transfer Sourcetable], connected for 0 seconds
+[27/Jan/2020:11:38:54] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:11:38:54] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:11:38:57] [6:Connection Handler] Accepted client 4 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[27/Jan/2020:11:39:31] [4:Connection Handler] No mount location file found.
+[27/Jan/2020:11:39:31] [4:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 2 sources connected
+[27/Jan/2020:11:39:31] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:11:39:31] [3:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 3 sources connected
+[27/Jan/2020:11:39:31] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:1 Clients:1
+[27/Jan/2020:11:40:32] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[27/Jan/2020:11:43:02] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[27/Jan/2020:11:43:04] [7:Connection Handler] Kicking source 5 [127.0.0.1] [Invalid Mount Point] [encoder], connected for 2 seconds, 0 bytes transfered. 2 sources connected
+[27/Jan/2020:11:43:04] [7:Connection Handler] Kicking all 0 clients for source 5
+[27/Jan/2020:11:43:05] [8:Connection Handler] Kicking source 6 [127.0.0.1] [Invalid Mount Point] [encoder], connected for 3 seconds, 0 bytes transfered. 2 sources connected
+[27/Jan/2020:11:43:05] [8:Connection Handler] Kicking all 0 clients for source 6
+[27/Jan/2020:11:44:14] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[27/Jan/2020:11:44:15] [9:Connection Handler] Kicking source 7 [127.0.0.1] [Invalid Mount Point] [encoder], connected for 1 seconds, 0 bytes transfered. 2 sources connected
+[27/Jan/2020:11:44:15] [10:Connection Handler] Kicking source 8 [127.0.0.1] [Invalid Mount Point] [encoder], connected for 1 seconds, 0 bytes transfered. 2 sources connected
+[27/Jan/2020:11:44:15] [9:Connection Handler] Kicking all 0 clients for source 7
+[27/Jan/2020:11:44:15] [10:Connection Handler] Kicking all 0 clients for source 8
+[27/Jan/2020:11:44:21] [6:Connection Handler] No mount location file found.
+[27/Jan/2020:11:44:21] [6:Connection Handler] No mount location file found.
+[27/Jan/2020:11:44:21] [6:Connection Handler] No mount location file found.
+[27/Jan/2020:11:44:21] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 5 minutes and 37 seconds, 674 bytes transfered. 2 sources connected
+[27/Jan/2020:11:44:21] [4:Source Thread] Kicking all 0 clients for source 2
+[27/Jan/2020:11:44:21] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 5 minutes and 37 seconds, 222 bytes transfered. 1 sources connected
+[27/Jan/2020:11:44:21] [3:Source Thread] Kicking all 0 clients for source 1
+[27/Jan/2020:11:44:55] [6:Connection Handler] No mount location file found.
+[27/Jan/2020:11:47:48] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:11:47:48] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:11:47:48] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:11:47:48] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:11:47:48] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:11:47:48] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:11:47:48] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:11:47:48] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:11:47:52] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:11:47:52] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:11:47:55] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:11:47:55] [3:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[27/Jan/2020:11:47:58] [4:Connection Handler] No mount location file found.
+[27/Jan/2020:11:47:58] [4:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 3 sources connected
+[27/Jan/2020:11:48:01] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/GRAV]. 1 clients connected
+[27/Jan/2020:11:48:01] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:11:48:01] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:11:48:01] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:11:48:04] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:11:48:04] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:11:48:04] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:11:48:04] [5:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[27/Jan/2020:11:48:48] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[27/Jan/2020:11:49:12] [2:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 1 minutes and 11 seconds, 39395 bytes transfered. 0 clients connected
+[27/Jan/2020:11:49:12] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[27/Jan/2020:11:49:14] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 22 seconds, 198 bytes transfered. 2 sources connected
+[27/Jan/2020:11:49:14] [2:Source Thread] Kicking all 0 clients for source 0
+[27/Jan/2020:11:49:16] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 21 seconds, 762 bytes transfered. 1 sources connected
+[27/Jan/2020:11:49:16] [3:Source Thread] Kicking all 0 clients for source 1
+[27/Jan/2020:11:49:17] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 19 seconds, 645 bytes transfered. 0 sources connected
+[27/Jan/2020:11:49:17] [4:Source Thread] Kicking all 1 clients for source 2
+[27/Jan/2020:11:49:41] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:11:49:41] [0:Main Thread] Cleanly shutting down...
+[27/Jan/2020:11:49:41] [0:Main Thread] Closing all listening sockets...
+[27/Jan/2020:11:49:41] [0:Main Thread] Telling threads to die...
+[27/Jan/2020:11:49:41] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[27/Jan/2020:11:49:41] [0:Main Thread] Closing all remaining sockets...
+[27/Jan/2020:11:49:41] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:11:49:41] [0:Main Thread] Waiting a wee while to let the other threads die..
+[27/Jan/2020:11:49:41] [0:Main Thread] Finally alone
+[27/Jan/2020:11:49:41] [0:Main Thread] Removing remaining sources...
+[27/Jan/2020:11:49:41] [0:Main Thread] Exiting..
+[27/Jan/2020:11:49:47] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:11:49:47] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:11:49:47] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:11:49:47] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:11:49:47] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:11:49:47] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:11:49:47] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:11:49:47] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:11:49:50] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:11:49:50] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:11:49:53] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:11:49:53] [3:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[27/Jan/2020:11:49:56] [4:Connection Handler] No mount location file found.
+[27/Jan/2020:11:49:56] [4:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 3 sources connected
+[27/Jan/2020:11:49:59] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/GRAV]. 1 clients connected
+[27/Jan/2020:11:49:59] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:11:49:59] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:11:49:59] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:11:50:02] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:11:50:02] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:11:50:02] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:11:50:02] [5:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[27/Jan/2020:11:50:16] [2:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 17 seconds, 18825 bytes transfered. 0 clients connected
+[27/Jan/2020:11:50:16] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[27/Jan/2020:11:50:20] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 30 seconds, 860 bytes transfered. 2 sources connected
+[27/Jan/2020:11:50:20] [2:Source Thread] Kicking all 0 clients for source 0
+[27/Jan/2020:11:50:22] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 29 seconds, 345 bytes transfered. 1 sources connected
+[27/Jan/2020:11:50:22] [3:Source Thread] Kicking all 0 clients for source 1
+[27/Jan/2020:11:50:23] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 27 seconds, 934 bytes transfered. 0 sources connected
+[27/Jan/2020:11:50:23] [4:Source Thread] Kicking all 1 clients for source 2
+[27/Jan/2020:11:50:25] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:11:50:25] [0:Main Thread] Cleanly shutting down...
+[27/Jan/2020:11:50:25] [0:Main Thread] Closing all listening sockets...
+[27/Jan/2020:11:50:25] [0:Main Thread] Telling threads to die...
+[27/Jan/2020:11:50:25] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[27/Jan/2020:11:50:25] [0:Main Thread] Closing all remaining sockets...
+[27/Jan/2020:11:50:25] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:11:50:25] [0:Main Thread] Waiting a wee while to let the other threads die..
+[27/Jan/2020:11:50:25] [0:Main Thread] Finally alone
+[27/Jan/2020:11:50:25] [0:Main Thread] Removing remaining sources...
+[27/Jan/2020:11:50:25] [0:Main Thread] Exiting..
+[27/Jan/2020:12:47:52] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:12:47:52] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:12:47:52] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:12:47:52] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:12:47:52] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:12:47:52] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:12:47:52] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:12:47:52] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:12:47:54] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:12:47:54] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:12:47:57] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:12:47:57] [3:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[27/Jan/2020:12:48:05] [4:Connection Handler] No mount location file found.
+[27/Jan/2020:12:48:05] [4:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 3 sources connected
+[27/Jan/2020:12:48:09] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/GRAV]. 1 clients connected
+[27/Jan/2020:12:48:09] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:12:48:09] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:12:48:09] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:12:48:12] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:12:48:12] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:12:48:12] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:12:48:12] [5:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[27/Jan/2020:12:48:51] [2:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 42 seconds, 26073 bytes transfered. 0 clients connected
+[27/Jan/2020:12:48:51] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[27/Jan/2020:12:48:52] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:0
+[27/Jan/2020:12:48:55] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 1 seconds, 402 bytes transfered. 2 sources connected
+[27/Jan/2020:12:48:55] [2:Source Thread] Kicking all 0 clients for source 0
+[27/Jan/2020:12:48:58] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 1 seconds, 758 bytes transfered. 1 sources connected
+[27/Jan/2020:12:48:58] [3:Source Thread] Kicking all 0 clients for source 1
+[27/Jan/2020:12:49:00] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 55 seconds, 56 bytes transfered. 0 sources connected
+[27/Jan/2020:12:49:00] [4:Source Thread] Kicking all 1 clients for source 2
+[27/Jan/2020:12:49:16] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:12:49:16] [0:Main Thread] Cleanly shutting down...
+[27/Jan/2020:12:49:16] [0:Main Thread] Closing all listening sockets...
+[27/Jan/2020:12:49:16] [0:Main Thread] Telling threads to die...
+[27/Jan/2020:12:49:16] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[27/Jan/2020:12:49:16] [0:Main Thread] Closing all remaining sockets...
+[27/Jan/2020:12:49:16] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:12:49:16] [0:Main Thread] Waiting a wee while to let the other threads die..
+[27/Jan/2020:12:49:16] [0:Main Thread] Finally alone
+[27/Jan/2020:12:49:16] [0:Main Thread] Removing remaining sources...
+[27/Jan/2020:12:49:16] [0:Main Thread] Exiting..
+[27/Jan/2020:13:05:20] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[27/Jan/2020:13:05:20] [0:Main Thread] Using stdout as NtripCaster logging window
+[27/Jan/2020:13:05:20] [0:Main Thread] Starting main connection handler...
+[27/Jan/2020:13:05:20] [0:Main Thread] Listening on port 2101...
+[27/Jan/2020:13:05:20] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[27/Jan/2020:13:05:20] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[27/Jan/2020:13:05:20] [0:Main Thread] Starting Calender Thread...
+[27/Jan/2020:13:05:20] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:13:05:23] [2:Connection Handler] No mount location file found.
+[27/Jan/2020:13:05:23] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[27/Jan/2020:13:05:27] [3:Connection Handler] No mount location file found.
+[27/Jan/2020:13:05:27] [3:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[27/Jan/2020:13:05:30] [4:Connection Handler] No mount location file found.
+[27/Jan/2020:13:05:30] [4:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 3 sources connected
+[27/Jan/2020:13:05:34] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/GRAV]. 1 clients connected
+[27/Jan/2020:13:05:34] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:13:05:34] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:13:05:34] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:13:05:37] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:13:05:37] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:13:05:37] [5:Connection Handler] No mount location file found.
+[27/Jan/2020:13:05:37] [5:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[27/Jan/2020:13:05:49] [2:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 15 seconds, 15759 bytes transfered. 0 clients connected
+[27/Jan/2020:13:05:49] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[27/Jan/2020:13:05:52] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 29 seconds, 250 bytes transfered. 2 sources connected
+[27/Jan/2020:13:05:52] [2:Source Thread] Kicking all 0 clients for source 0
+[27/Jan/2020:13:05:55] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 28 seconds, 910 bytes transfered. 1 sources connected
+[27/Jan/2020:13:05:55] [3:Source Thread] Kicking all 0 clients for source 1
+[27/Jan/2020:13:05:56] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 26 seconds, 113 bytes transfered. 0 sources connected
+[27/Jan/2020:13:05:56] [4:Source Thread] Kicking all 1 clients for source 2
+[27/Jan/2020:13:06:20] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[27/Jan/2020:13:06:35] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:13:06:35] [0:Main Thread] Cleanly shutting down...
+[27/Jan/2020:13:06:35] [0:Main Thread] Closing all listening sockets...
+[27/Jan/2020:13:06:35] [0:Main Thread] Telling threads to die...
+[27/Jan/2020:13:06:35] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[27/Jan/2020:13:06:35] [0:Main Thread] Closing all remaining sockets...
+[27/Jan/2020:13:06:35] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[27/Jan/2020:13:06:35] [0:Main Thread] Waiting a wee while to let the other threads die..
+[27/Jan/2020:13:06:35] [0:Main Thread] Finally alone
+[27/Jan/2020:13:06:35] [0:Main Thread] Removing remaining sources...
+[27/Jan/2020:13:06:35] [0:Main Thread] Exiting..
+[28/Jan/2020:07:59:09] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[28/Jan/2020:07:59:09] [0:Main Thread] Using stdout as NtripCaster logging window
+[28/Jan/2020:07:59:09] [0:Main Thread] Starting main connection handler...
+[28/Jan/2020:07:59:09] [0:Main Thread] Listening on port 2101...
+[28/Jan/2020:07:59:09] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[28/Jan/2020:07:59:09] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[28/Jan/2020:07:59:09] [0:Main Thread] Starting Calender Thread...
+[28/Jan/2020:07:59:09] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[28/Jan/2020:07:59:38] [2:Connection Handler] No mount location file found.
+[28/Jan/2020:07:59:45] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[28/Jan/2020:07:59:52] [3:Connection Handler] No mount location file found.
+[28/Jan/2020:07:59:52] [3:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[28/Jan/2020:08:00:00] [4:Connection Handler] No mount location file found.
+[28/Jan/2020:08:00:00] [4:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 3 sources connected
+[28/Jan/2020:08:00:09] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:0
+[28/Jan/2020:08:00:42] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/GRAV]. 1 clients connected
+[28/Jan/2020:08:01:11] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[28/Jan/2020:08:02:48] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[28/Jan/2020:08:03:48] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[28/Jan/2020:08:03:49] [5:Connection Handler] No mount location file found.
+[28/Jan/2020:08:03:49] [5:Connection Handler] No mount location file found.
+[28/Jan/2020:08:03:49] [5:Connection Handler] No mount location file found.
+[28/Jan/2020:08:03:49] [5:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[28/Jan/2020:08:04:56] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[28/Jan/2020:08:05:57] [1:Calendar Thread] Bandwidth:6.450000KB/s Sources:3 Clients:1
+[28/Jan/2020:08:06:52] [2:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 6 minutes and 10 seconds, 189123 bytes transfered. 0 clients connected
+[28/Jan/2020:08:06:52] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[28/Jan/2020:08:06:55] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 7 minutes and 41 seconds, 205 bytes transfered. 2 sources connected
+[28/Jan/2020:08:06:55] [2:Source Thread] Kicking all 0 clients for source 0
+[28/Jan/2020:08:06:57] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 7 minutes and 7 seconds, 554 bytes transfered. 1 sources connected
+[28/Jan/2020:08:06:57] [3:Source Thread] Kicking all 0 clients for source 1
+[28/Jan/2020:08:06:57] [1:Calendar Thread] Bandwidth:0.573770KB/s Sources:1 Clients:0
+[28/Jan/2020:08:06:58] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 7 minutes and 1 seconds, 621 bytes transfered. 0 sources connected
+[28/Jan/2020:08:06:58] [4:Source Thread] Kicking all 1 clients for source 2
+[28/Jan/2020:08:09:00] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[28/Jan/2020:08:09:00] [0:Main Thread] Using stdout as NtripCaster logging window
+[28/Jan/2020:08:09:00] [0:Main Thread] Starting main connection handler...
+[28/Jan/2020:08:09:00] [0:Main Thread] Listening on port 2101...
+[28/Jan/2020:08:09:00] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[28/Jan/2020:08:09:00] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[28/Jan/2020:08:09:00] [0:Main Thread] Starting Calender Thread...
+[28/Jan/2020:08:09:00] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[28/Jan/2020:08:09:14] [2:Connection Handler] No mount location file found.
+[28/Jan/2020:08:09:14] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[28/Jan/2020:08:09:15] [3:Connection Handler] No mount location file found.
+[28/Jan/2020:08:09:15] [3:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[28/Jan/2020:08:09:17] [4:Connection Handler] No mount location file found.
+[28/Jan/2020:08:09:17] [4:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 3 sources connected
+[28/Jan/2020:08:09:36] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 33 seconds, 763 bytes transfered. 2 sources connected
+[28/Jan/2020:08:09:36] [2:Source Thread] Kicking all 0 clients for source 0
+[28/Jan/2020:08:11:07] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[28/Jan/2020:08:11:07] [0:Main Thread] Using stdout as NtripCaster logging window
+[28/Jan/2020:08:11:07] [0:Main Thread] Starting main connection handler...
+[28/Jan/2020:08:11:07] [0:Main Thread] Listening on port 2101...
+[28/Jan/2020:08:11:07] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[28/Jan/2020:08:11:07] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[28/Jan/2020:08:11:07] [0:Main Thread] Starting Calender Thread...
+[28/Jan/2020:08:11:07] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[28/Jan/2020:08:11:13] [2:Connection Handler] No mount location file found.
+[28/Jan/2020:08:11:13] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[28/Jan/2020:08:11:50] [3:Connection Handler] No mount location file found.
+[28/Jan/2020:08:11:50] [3:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[28/Jan/2020:08:12:06] [3:Source Thread] Didn't receive data from source after 16000 microseconds, assuming it died...
+[28/Jan/2020:08:12:06] [3:Source Thread] Lost connection to source on mount /PLAN, waiting 0 seconds for timeout
+[28/Jan/2020:08:12:06] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source died] [encoder], connected for 48 seconds, 324 bytes transfered. 1 sources connected
+[28/Jan/2020:08:12:06] [3:Source Thread] Kicking all 0 clients for source 1
+[28/Jan/2020:08:12:07] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:1 Clients:0
+[28/Jan/2020:08:12:41] [4:Connection Handler] No mount location file found.
+[28/Jan/2020:08:12:41] [4:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[28/Jan/2020:08:12:59] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 49 seconds, 385 bytes transfered. 1 sources connected
+[28/Jan/2020:08:12:59] [2:Source Thread] Kicking all 0 clients for source 0
+[28/Jan/2020:08:13:01] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 21 seconds, 630 bytes transfered. 0 sources connected
+[28/Jan/2020:08:13:01] [4:Source Thread] Kicking all 0 clients for source 2
+[28/Jan/2020:08:13:07] [1:Calendar Thread] Bandwidth:1.650000KB/s Sources:0 Clients:0
+[28/Jan/2020:08:13:37] [0:Main Thread] WARNING: Duplicate mount record /AUTO, using latter
+[28/Jan/2020:08:13:37] [0:Main Thread] Caught SIGHUP, rehashed config and reopened logfiles...
+[28/Jan/2020:08:13:56] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[28/Jan/2020:08:13:56] [0:Main Thread] Using stdout as NtripCaster logging window
+[28/Jan/2020:08:13:56] [0:Main Thread] Starting main connection handler...
+[28/Jan/2020:08:13:56] [0:Main Thread] Bind to socket on port 2101 failed. Shutting down now.
+[28/Jan/2020:08:13:56] [0:Main Thread] Cleanly shutting down...
+[28/Jan/2020:08:13:56] [0:Main Thread] Closing all listening sockets...
+[28/Jan/2020:08:13:56] [0:Main Thread] Telling threads to die...
+[28/Jan/2020:08:13:56] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[28/Jan/2020:08:13:56] [0:Main Thread] Closing all remaining sockets...
+[28/Jan/2020:08:13:56] [0:Main Thread] Removing remaining sources...
+[28/Jan/2020:08:13:56] [0:Main Thread] Exiting..
+[28/Jan/2020:08:14:16] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[28/Jan/2020:08:14:16] [0:Main Thread] Using stdout as NtripCaster logging window
+[28/Jan/2020:08:14:16] [0:Main Thread] Starting main connection handler...
+[28/Jan/2020:08:14:16] [0:Main Thread] Listening on port 2101...
+[28/Jan/2020:08:14:16] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[28/Jan/2020:08:14:16] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[28/Jan/2020:08:14:16] [0:Main Thread] Starting Calender Thread...
+[28/Jan/2020:08:14:16] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[28/Jan/2020:08:15:05] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[28/Jan/2020:08:15:05] [0:Main Thread] Using stdout as NtripCaster logging window
+[28/Jan/2020:08:15:05] [0:Main Thread] Starting main connection handler...
+[28/Jan/2020:08:15:05] [0:Main Thread] Listening on port 2101...
+[28/Jan/2020:08:15:05] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[28/Jan/2020:08:15:05] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[28/Jan/2020:08:15:05] [0:Main Thread] Starting Calender Thread...
+[28/Jan/2020:08:15:05] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[28/Jan/2020:08:15:35] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[28/Jan/2020:08:15:35] [0:Main Thread] Using stdout as NtripCaster logging window
+[28/Jan/2020:08:15:35] [0:Main Thread] Starting main connection handler...
+[28/Jan/2020:08:15:35] [0:Main Thread] Listening on port 2101...
+[28/Jan/2020:08:15:35] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[28/Jan/2020:08:15:35] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[28/Jan/2020:08:15:35] [0:Main Thread] Starting Calender Thread...
+[28/Jan/2020:08:15:35] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[28/Jan/2020:08:16:20] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[28/Jan/2020:08:16:20] [0:Main Thread] Using stdout as NtripCaster logging window
+[28/Jan/2020:08:16:20] [0:Main Thread] Starting main connection handler...
+[28/Jan/2020:08:16:20] [0:Main Thread] Listening on port 2101...
+[28/Jan/2020:08:16:20] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[28/Jan/2020:08:16:20] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[28/Jan/2020:08:16:20] [0:Main Thread] Starting Calender Thread...
+[28/Jan/2020:08:16:20] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[28/Jan/2020:08:16:36] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[28/Jan/2020:08:16:44] [3:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[28/Jan/2020:08:16:49] [4:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 3 sources connected
+[28/Jan/2020:08:16:53] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/GRAV]. 1 clients connected
+[28/Jan/2020:08:17:18] [5:Connection Handler] client [192.168.130.43] change to /PLAN
+
+[28/Jan/2020:08:17:20] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[28/Jan/2020:08:18:20] [1:Calendar Thread] Bandwidth:13.066667KB/s Sources:3 Clients:1
+[28/Jan/2020:08:18:57] [6:Connection Handler] Accepted client 4 [kor2] from [192.168.130.43] on mountpoint [/GRAV]. 2 clients connected
+[28/Jan/2020:08:19:06] [6:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[28/Jan/2020:08:19:20] [1:Calendar Thread] Bandwidth:13.066667KB/s Sources:3 Clients:2
+[28/Jan/2020:08:20:00] [2:Source Thread] Kicking client 4 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 1 minutes and 3 seconds, 29279 bytes transfered. 1 clients connected
+[28/Jan/2020:08:20:00] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[28/Jan/2020:08:20:01] [3:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 3 minutes and 8 seconds, 651786 bytes transfered. 0 clients connected
+[28/Jan/2020:08:20:01] [3:Source Thread] WARNING: Bloody going below limits on client count!
+[28/Jan/2020:08:20:04] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 3 minutes and 39 seconds, 357 bytes transfered. 2 sources connected
+[28/Jan/2020:08:20:04] [2:Source Thread] Kicking all 0 clients for source 0
+[28/Jan/2020:08:20:06] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 3 minutes and 27 seconds, 944 bytes transfered. 1 sources connected
+[28/Jan/2020:08:20:06] [3:Source Thread] Kicking all 0 clients for source 1
+[28/Jan/2020:08:20:08] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 3 minutes and 21 seconds, 478 bytes transfered. 0 sources connected
+[28/Jan/2020:08:20:08] [4:Source Thread] Kicking all 2 clients for source 2
+[28/Jan/2020:08:20:20] [1:Calendar Thread] Bandwidth:11.158333KB/s Sources:0 Clients:0
+[28/Jan/2020:08:21:20] [1:Calendar Thread] Bandwidth:1.166667KB/s Sources:0 Clients:0
+[28/Jan/2020:08:23:47] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[28/Jan/2020:08:23:47] [0:Main Thread] Using stdout as NtripCaster logging window
+[28/Jan/2020:08:23:47] [0:Main Thread] Starting main connection handler...
+[28/Jan/2020:08:23:47] [0:Main Thread] Listening on port 2101...
+[28/Jan/2020:08:23:47] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[28/Jan/2020:08:23:47] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[28/Jan/2020:08:23:47] [0:Main Thread] Starting Calender Thread...
+[28/Jan/2020:08:23:47] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[28/Jan/2020:08:23:50] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[28/Jan/2020:08:23:53] [3:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[28/Jan/2020:08:23:55] [4:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 3 sources connected
+[28/Jan/2020:08:24:36] [5:Connection Handler] Kicking unknown 3 [192.168.130.43] [Not authorized], connected for 0 seconds
+[28/Jan/2020:08:24:37] [6:Connection Handler] Kicking unknown 4 [192.168.130.43] [Not authorized], connected for 0 seconds
+[28/Jan/2020:08:24:40] [7:Connection Handler] Kicking unknown 5 [192.168.130.43] [Not authorized], connected for 0 seconds
+[28/Jan/2020:08:24:45] [8:Connection Handler] Kicking unknown 6 [192.168.130.43] [Not authorized], connected for 0 seconds
+[28/Jan/2020:08:24:47] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:0
+[28/Jan/2020:08:25:00] [9:Connection Handler] Kicking unknown 7 [192.168.130.43] [Not authorized], connected for 0 seconds
+[28/Jan/2020:08:25:01] [10:Connection Handler] Kicking unknown 8 [192.168.130.43] [Not authorized], connected for 0 seconds
+[28/Jan/2020:08:25:14] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 24 seconds, 228 bytes transfered. 2 sources connected
+[28/Jan/2020:08:25:14] [2:Source Thread] Kicking all 0 clients for source 0
+[28/Jan/2020:08:25:16] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 23 seconds, 77 bytes transfered. 1 sources connected
+[28/Jan/2020:08:25:16] [3:Source Thread] Kicking all 0 clients for source 1
+[28/Jan/2020:08:25:18] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 1 minutes and 23 seconds, 210 bytes transfered. 0 sources connected
+[28/Jan/2020:08:25:18] [4:Source Thread] Kicking all 0 clients for source 2
+[28/Jan/2020:08:25:21] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[28/Jan/2020:08:25:21] [0:Main Thread] Cleanly shutting down...
+[28/Jan/2020:08:25:21] [0:Main Thread] Closing all listening sockets...
+[28/Jan/2020:08:25:21] [0:Main Thread] Telling threads to die...
+[28/Jan/2020:08:25:21] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[28/Jan/2020:08:25:21] [0:Main Thread] Closing all remaining sockets...
+[28/Jan/2020:08:25:21] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[28/Jan/2020:08:25:21] [0:Main Thread] Waiting a wee while to let the other threads die..
+[28/Jan/2020:08:25:21] [0:Main Thread] Finally alone
+[28/Jan/2020:08:25:21] [0:Main Thread] Removing remaining sources...
+[28/Jan/2020:08:25:21] [0:Main Thread] Exiting..
+[28/Jan/2020:10:11:58] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[28/Jan/2020:10:11:58] [0:Main Thread] Using stdout as NtripCaster logging window
+[28/Jan/2020:10:11:58] [0:Main Thread] Starting main connection handler...
+[28/Jan/2020:10:11:58] [0:Main Thread] Listening on port 2101...
+[28/Jan/2020:10:11:58] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[28/Jan/2020:10:11:58] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[28/Jan/2020:10:11:58] [0:Main Thread] Starting Calender Thread...
+[28/Jan/2020:10:11:58] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[28/Jan/2020:10:12:40] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[28/Jan/2020:10:12:43] [3:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[28/Jan/2020:10:12:46] [4:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 3 sources connected
+[28/Jan/2020:10:12:58] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:0
+[28/Jan/2020:10:12:58] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/GRAV]. 1 clients connected
+[28/Jan/2020:10:13:01] [5:Connection Handler] client [192.168.130.43] change to /PLAN
+
+[28/Jan/2020:10:13:08] [6:Connection Handler] Accepted client 4 [kor3] from [192.168.130.43] on mountpoint [/GRAV]. 2 clients connected
+[28/Jan/2020:10:13:11] [6:Connection Handler] client [192.168.130.43] change to /ROMA
+
+[28/Jan/2020:10:13:24] [2:Source Thread] Kicking client 4 [kor3] [192.168.130.43] [Client signed off] [listener], connected for 16 seconds, 21956 bytes transfered. 1 clients connected
+[28/Jan/2020:10:13:24] [2:Source Thread] WARNING: Bloody going below limits on client count!
+[28/Jan/2020:10:13:26] [3:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 28 seconds, 87915 bytes transfered. 0 clients connected
+[28/Jan/2020:10:13:26] [3:Source Thread] WARNING: Bloody going below limits on client count!
+[28/Jan/2020:10:13:29] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 49 seconds, 982 bytes transfered. 2 sources connected
+[28/Jan/2020:10:13:29] [2:Source Thread] Kicking all 0 clients for source 0
+[28/Jan/2020:10:13:31] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 48 seconds, 139 bytes transfered. 1 sources connected
+[28/Jan/2020:10:13:31] [3:Source Thread] Kicking all 0 clients for source 1
+[28/Jan/2020:10:13:33] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 47 seconds, 737 bytes transfered. 0 sources connected
+[28/Jan/2020:10:13:33] [4:Source Thread] Kicking all 2 clients for source 2
+[28/Jan/2020:10:13:58] [1:Calendar Thread] Bandwidth:1.766667KB/s Sources:0 Clients:0
+[28/Jan/2020:10:14:01] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[28/Jan/2020:10:14:01] [0:Main Thread] Cleanly shutting down...
+[28/Jan/2020:10:14:01] [0:Main Thread] Closing all listening sockets...
+[28/Jan/2020:10:14:01] [0:Main Thread] Telling threads to die...
+[28/Jan/2020:10:14:01] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[28/Jan/2020:10:14:01] [0:Main Thread] Closing all remaining sockets...
+[28/Jan/2020:10:14:01] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[28/Jan/2020:10:14:01] [0:Main Thread] Waiting a wee while to let the other threads die..
+[28/Jan/2020:10:14:02] [0:Main Thread] Finally alone
+[28/Jan/2020:10:14:02] [0:Main Thread] Removing remaining sources...
+[28/Jan/2020:10:14:02] [0:Main Thread] Exiting..
+[28/Jan/2020:14:04:55] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[28/Jan/2020:14:04:55] [0:Main Thread] Using stdout as NtripCaster logging window
+[28/Jan/2020:14:04:55] [0:Main Thread] Starting main connection handler...
+[28/Jan/2020:14:04:55] [0:Main Thread] Listening on port 2101...
+[28/Jan/2020:14:04:55] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[28/Jan/2020:14:04:55] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[28/Jan/2020:14:04:55] [0:Main Thread] Starting Calender Thread...
+[28/Jan/2020:14:04:55] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[28/Jan/2020:14:04:59] [2:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 1 sources connected
+[28/Jan/2020:14:05:17] [3:Connection Handler] Kicking unknown 1 [192.168.130.43] [Not authorized], connected for 0 seconds
+[28/Jan/2020:14:05:18] [4:Connection Handler] Kicking unknown 2 [192.168.130.43] [Not authorized], connected for 0 seconds
+[28/Jan/2020:14:05:21] [5:Connection Handler] Kicking unknown 3 [192.168.130.43] [Not authorized], connected for 0 seconds
+[28/Jan/2020:14:05:26] [6:Connection Handler] Kicking unknown 4 [192.168.130.43] [Not authorized], connected for 0 seconds
+[28/Jan/2020:14:05:29] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 30 seconds, 753 bytes transfered. 0 sources connected
+[28/Jan/2020:14:05:29] [2:Source Thread] Kicking all 0 clients for source 0
+[28/Jan/2020:14:05:39] [0:Main Thread] Caught signal 2, perhaps someone is at the door?
+[28/Jan/2020:14:05:39] [0:Main Thread] Cleanly shutting down...
+[28/Jan/2020:14:05:39] [0:Main Thread] Closing all listening sockets...
+[28/Jan/2020:14:05:39] [0:Main Thread] Telling threads to die...
+[28/Jan/2020:14:05:39] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[28/Jan/2020:14:05:39] [0:Main Thread] Closing all remaining sockets...
+[28/Jan/2020:14:05:39] [0:Main Thread] Waiting a wee while to let the other threads die..
+[28/Jan/2020:14:05:39] [0:Main Thread] Finally alone
+[28/Jan/2020:14:05:39] [0:Main Thread] Removing remaining sources...
+[28/Jan/2020:14:05:39] [0:Main Thread] Exiting..
+[28/Jan/2020:14:08:17] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[28/Jan/2020:14:08:17] [0:Main Thread] Using stdout as NtripCaster logging window
+[28/Jan/2020:14:08:17] [0:Main Thread] Starting main connection handler...
+[28/Jan/2020:14:08:17] [0:Main Thread] Listening on port 2101...
+[28/Jan/2020:14:08:17] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[28/Jan/2020:14:08:17] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[28/Jan/2020:14:08:17] [0:Main Thread] Starting Calender Thread...
+[28/Jan/2020:14:08:17] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[28/Jan/2020:14:08:23] [2:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 1 sources connected
+[28/Jan/2020:14:08:27] [3:Connection Handler] Kicking unknown 1 [192.168.130.43] [Not authorized], connected for 0 seconds
+[28/Jan/2020:14:08:28] [4:Connection Handler] Kicking unknown 2 [192.168.130.43] [Not authorized], connected for 0 seconds
+[28/Jan/2020:14:08:32] [5:Connection Handler] Kicking unknown 3 [192.168.130.43] [Not authorized], connected for 1 seconds
+[28/Jan/2020:14:08:37] [6:Connection Handler] Kicking unknown 4 [192.168.130.43] [Not authorized], connected for 0 seconds
+[28/Jan/2020:14:08:45] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 25 seconds, 17 bytes transfered. 0 sources connected
+[28/Jan/2020:14:08:45] [2:Source Thread] Kicking all 0 clients for source 0
+[28/Jan/2020:14:09:18] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[28/Jan/2020:14:09:18] [0:Main Thread] Using stdout as NtripCaster logging window
+[28/Jan/2020:14:09:18] [0:Main Thread] Starting main connection handler...
+[28/Jan/2020:14:09:18] [0:Main Thread] Listening on port 2101...
+[28/Jan/2020:14:09:18] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[28/Jan/2020:14:09:18] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[28/Jan/2020:14:09:18] [0:Main Thread] Starting Calender Thread...
+[28/Jan/2020:14:09:18] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[28/Jan/2020:14:09:26] [2:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 1 sources connected
+[28/Jan/2020:14:09:29] [3:Connection Handler] Kicking unknown 1 [192.168.130.43] [Not authorized], connected for 0 seconds
+[28/Jan/2020:14:09:30] [4:Connection Handler] Kicking unknown 2 [192.168.130.43] [Not authorized], connected for 0 seconds
+[28/Jan/2020:14:09:33] [5:Connection Handler] Kicking unknown 3 [192.168.130.43] [Not authorized], connected for 0 seconds
+[28/Jan/2020:14:09:38] [6:Connection Handler] Kicking unknown 4 [192.168.130.43] [Not authorized], connected for 0 seconds
+[28/Jan/2020:14:09:46] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 23 seconds, 365 bytes transfered. 0 sources connected
+[28/Jan/2020:14:09:46] [2:Source Thread] Kicking all 0 clients for source 0
+[28/Jan/2020:14:10:18] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[28/Jan/2020:14:11:18] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[28/Jan/2020:14:11:55] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[28/Jan/2020:14:11:55] [0:Main Thread] Using stdout as NtripCaster logging window
+[28/Jan/2020:14:11:55] [0:Main Thread] Starting main connection handler...
+[28/Jan/2020:14:11:55] [0:Main Thread] Listening on port 2101...
+[28/Jan/2020:14:11:55] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[28/Jan/2020:14:11:55] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[28/Jan/2020:14:11:55] [0:Main Thread] Starting Calender Thread...
+[28/Jan/2020:14:11:55] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[28/Jan/2020:14:12:02] [2:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 1 sources connected
+[28/Jan/2020:14:13:04] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:1 Clients:0
+[29/Jan/2020:07:10:32] [0:Main Thread] NtripCaster Version 0.1.5 Starting..
+[29/Jan/2020:07:10:32] [0:Main Thread] Using stdout as NtripCaster logging window
+[29/Jan/2020:07:10:32] [0:Main Thread] Starting main connection handler...
+[29/Jan/2020:07:10:32] [0:Main Thread] Listening on port 2101...
+[29/Jan/2020:07:10:32] [0:Main Thread] Using 'HP-ProDesk' as servername...
+[29/Jan/2020:07:10:32] [0:Main Thread] Server limits: 100 clients, 100 clients per source, 40 sources
+[29/Jan/2020:07:10:32] [0:Main Thread] Starting Calender Thread...
+[29/Jan/2020:07:10:32] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:0 Clients:0
+[29/Jan/2020:07:11:00] [2:Connection Handler] Accepted encoder on mountpoint /ROMA from 127.0.0.1. 1 sources connected
+[29/Jan/2020:07:11:03] [3:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[29/Jan/2020:07:11:06] [4:Connection Handler] Accepted encoder on mountpoint /GRAV from 127.0.0.1. 3 sources connected
+[29/Jan/2020:07:11:20] [5:Connection Handler] Accepted client 3 [kor2] from [192.168.130.43] on mountpoint [/GRAV]. 1 clients connected
+[29/Jan/2020:07:11:32] [5:Connection Handler] client [192.168.130.43] change to /PLAN
+
+[29/Jan/2020:07:11:32] [1:Calendar Thread] Bandwidth:0.000000KB/s Sources:3 Clients:1
+[29/Jan/2020:07:11:40] [3:Source Thread] Kicking source 1 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 37 seconds, 315 bytes transfered. 2 sources connected
+[29/Jan/2020:07:11:40] [3:Source Thread] Kicking all 0 clients for source 1
+[29/Jan/2020:07:11:40] [3:Source Thread] Kicking client 3 [kor2] [192.168.130.43] [Stream ended] [listener], connected for 20 seconds, 50434 bytes transfered. 0 clients connected
+[29/Jan/2020:07:11:40] [3:Source Thread] WARNING: Bloody going below limits on client count!
+[29/Jan/2020:07:11:40] [6:Connection Handler] Accepted client 4 [kor2] from [192.168.130.43] on mountpoint [/GRAV]. 1 clients connected
+[29/Jan/2020:07:12:20] [4:Source Thread] Kicking client 4 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 40 seconds, 173752 bytes transfered. 0 clients connected
+[29/Jan/2020:07:12:24] [7:Connection Handler] Accepted client 5 [kor2] from [192.168.130.43] on mountpoint [/GRAV]. 1 clients connected
+[29/Jan/2020:07:12:32] [1:Calendar Thread] Bandwidth:8.250000KB/s Sources:2 Clients:1
+[29/Jan/2020:07:13:08] [4:Source Thread] Kicking client 5 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 44 seconds, 189875 bytes transfered. 0 clients connected
+[29/Jan/2020:07:13:16] [4:Source Thread] Kicking source 2 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 2 minutes and 10 seconds, 295 bytes transfered. 1 sources connected
+[29/Jan/2020:07:13:16] [4:Source Thread] Kicking all 1 clients for source 2
+[29/Jan/2020:07:13:21] [8:Connection Handler] Accepted client 6 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[29/Jan/2020:07:13:32] [1:Calendar Thread] Bandwidth:9.016667KB/s Sources:1 Clients:1
+[29/Jan/2020:07:13:45] [9:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[29/Jan/2020:07:13:45] [8:Connection Handler] client [192.168.130.43] change to /PLAN
+
+[29/Jan/2020:07:13:59] [9:Source Thread] Kicking source 7 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 14 seconds, 758 bytes transfered. 1 sources connected
+[29/Jan/2020:07:13:59] [9:Source Thread] Kicking all 0 clients for source 7
+[29/Jan/2020:07:13:59] [9:Source Thread] Kicking client 6 [kor2] [192.168.130.43] [Stream ended] [listener], connected for 38 seconds, 68340 bytes transfered. 0 clients connected
+[29/Jan/2020:07:13:59] [9:Source Thread] WARNING: Bloody going below limits on client count!
+[29/Jan/2020:07:13:59] [10:Connection Handler] Accepted client 8 [kor2] from [192.168.130.43] on mountpoint [/ROMA]. 1 clients connected
+[29/Jan/2020:07:14:16] [11:Connection Handler] Accepted encoder on mountpoint /PLAN from 127.0.0.1. 2 sources connected
+[29/Jan/2020:07:14:17] [10:Connection Handler] client [192.168.130.43] change to /PLAN
+
+[29/Jan/2020:07:14:25] [11:Source Thread] Kicking client 8 [kor2] [192.168.130.43] [Client signed off] [listener], connected for 26 seconds, 43641 bytes transfered. 0 clients connected
+[29/Jan/2020:07:14:25] [11:Source Thread] WARNING: Bloody going below limits on client count!
+[29/Jan/2020:07:14:28] [2:Source Thread] Kicking source 0 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 3 minutes and 28 seconds, 520 bytes transfered. 1 sources connected
+[29/Jan/2020:07:14:28] [2:Source Thread] Kicking all 2 clients for source 0
+[29/Jan/2020:07:14:30] [11:Source Thread] Kicking source 9 [127.0.0.1] [Source signed off (killed itself)] [encoder], connected for 14 seconds, 517 bytes transfered. 0 sources connected
+[29/Jan/2020:07:14:30] [11:Source Thread] Kicking all 0 clients for source 9
+[29/Jan/2020:07:14:32] [1:Calendar Thread] Bandwidth:4.433333KB/s Sources:0 Clients:0
+[29/Jan/2020:07:14:33] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[29/Jan/2020:07:14:33] [0:Main Thread] Cleanly shutting down...
+[29/Jan/2020:07:14:33] [0:Main Thread] Closing all listening sockets...
+[29/Jan/2020:07:14:33] [0:Main Thread] Telling threads to die...
+[29/Jan/2020:07:14:33] [0:Main Thread] Closing sockets for sources that keep hanging around...
+[29/Jan/2020:07:14:33] [0:Main Thread] Closing all remaining sockets...
+[29/Jan/2020:07:14:33] [0:Main Thread] Caught signal 15, perhaps someone is at the door?
+[29/Jan/2020:07:14:33] [0:Main Thread] Waiting a wee while to let the other threads die..
+[29/Jan/2020:07:14:33] [0:Main Thread] Finally alone
+[29/Jan/2020:07:14:33] [0:Main Thread] Removing remaining sources...
+[29/Jan/2020:07:14:33] [0:Main Thread] Exiting..
